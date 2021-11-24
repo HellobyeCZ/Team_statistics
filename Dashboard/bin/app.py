@@ -348,161 +348,168 @@ def load_team(which):
         
             
 
-        col1, col2, col3 = st.columns([2,2,1])
+        col1, col2, col3, col4 = st.columns(4)
         with col1:
             st.metric("Goals scored", len(goal_scored))
         with col2:
             st.metric("Goals conceded", len(goal_conceded))
         with col3:
             st.metric("Ratio", round(len(goal_scored)/len(goal_conceded),2))
+        with col4:
+            st.metric("Penalties", round(sum(FINAL_team_penalty_table.TM),2))
 
-        col1, col2, col3 = st.columns([2,2,1])
+        col1, col2, col3, col4 = st.columns(4)
         with col1:
             st.metric("Matches played", len(all_matches))
         with col2:
             st.metric("Wins", len(all_matches[all_matches['Outcome'] == 'Win']))
         with col3:
             st.metric("Loses", len(all_matches[all_matches['Outcome'] == 'Lose']))
+        with col4:
+            st.metric("Prob. of win", f"{int(round(len(all_matches[all_matches['Outcome'] == 'Win'])/len(all_matches['Outcome']),2)*100)}%")
 
         st.subheader("")
         st.subheader("")
-        st.subheader("Goals scored per minutes/period")
 
-        col1, col2= st.columns(2)
+        with st.expander("Goals scored per minutes/period"):
+
+            st.subheader("Goals scored per minutes/period")
+
+            col1, col2= st.columns(2)
+
+            
+            with col1:
+                select_goal_scored_groupby = st.selectbox(
+                    "Minute/period:", goal_scored.columns[[8,2]],
+                    key="214"
+                )
+
+            with col2:
+                st.write("Apply filter")
+                goal_scored_ind = st.checkbox("")
+
+
+            if goal_scored_ind:
+                
+                goal_scored["Goals"] = 1
+
+                select_goal_scored = st.selectbox(
+                        "Select season:", goal_scored["Season"].unique(),
+                        key= "93"
+                    )
+                
+
+                if select_goal_scored_groupby == "Minute":
+                    goal_scored = goal_scored[goal_scored["Season"]==select_goal_scored].iloc[:,[11,8]]
+                elif select_goal_scored_groupby == "Period":
+                    goal_scored = goal_scored[goal_scored["Season"]==select_goal_scored].iloc[:,[11,2]]
+                
+                goal_scored = goal_scored.groupby(select_goal_scored_groupby).count().reset_index()
+
+                goal_scored_graph = px.bar(
+                    goal_scored, 
+                    x = select_goal_scored_groupby,
+                    y = "Goals",
+                    template = "plotly_dark"
+                    )
+
+                st.plotly_chart(goal_scored_graph)
+
+            elif goal_scored_ind == False:
+                
+                goal_scored["Goals"] = 1
+
+                if select_goal_scored_groupby == "Minute":
+                    goal_scored = goal_scored.iloc[:,[11,8]]
+                elif select_goal_scored_groupby == "Period":
+                    goal_scored = goal_scored.iloc[:,[11,2]]
+
+
+                
+                goal_scored = goal_scored.groupby(select_goal_scored_groupby).count().reset_index()
+
+                goal_scored_graph = px.bar(
+                    goal_scored, 
+                    x = select_goal_scored_groupby,
+                    y = "Goals",
+                    template = "plotly_dark"
+                    )
+
+                st.plotly_chart(goal_scored_graph)
 
         
-        with col1:
-            select_goal_scored_groupby = st.selectbox(
-                "Minute/period:", goal_scored.columns[[8,2]],
-                key="214"
-            )
-
-        with col2:
-            st.write("Apply filter")
-            goal_scored_ind = st.checkbox("")
 
 
-        if goal_scored_ind:
-            
-            goal_scored["Goals"] = 1
 
-            select_goal_scored = st.selectbox(
-                    "Select season:", goal_scored["Season"].unique(),
-                    key= "93"
-                )
-            
 
-            if select_goal_scored_groupby == "Minute":
-                goal_scored = goal_scored[goal_scored["Season"]==select_goal_scored].iloc[:,[11,8]]
-            elif select_goal_scored_groupby == "Period":
-                goal_scored = goal_scored[goal_scored["Season"]==select_goal_scored].iloc[:,[11,2]]
-            
-            goal_scored = goal_scored.groupby(select_goal_scored_groupby).count().reset_index()
 
-            goal_scored_graph = px.bar(
-                goal_scored, 
-                x = select_goal_scored_groupby,
-                y = "Goals",
-                template = "plotly_dark"
+
+
+
+
+        with st.expander("Goals conceded per minutes/period"):
+            goal_conceded = opponent_goal_table
+            st.subheader("Goals conceded per minutes/period")
+
+            col1, col2 = st.columns(2)
+            with col1:
+                select_goal_conceded_groupby = st.selectbox(
+                    "Minute/period:", goal_conceded.columns[[8,2]],
+                    key="215"
                 )
 
-            st.plotly_chart(goal_scored_graph)
-
-        elif goal_scored_ind == False:
-            
-            goal_scored["Goals"] = 1
-
-            if select_goal_scored_groupby == "Minute":
-                goal_scored = goal_scored.iloc[:,[11,8]]
-            elif select_goal_scored_groupby == "Period":
-                goal_scored = goal_scored.iloc[:,[11,2]]
+            with col2:
+                st.write("Apply filter")
+                goal_conceded_ind = st.checkbox("", key="asda")
 
 
-            
-            goal_scored = goal_scored.groupby(select_goal_scored_groupby).count().reset_index()
+            if goal_conceded_ind:
+                
+                goal_conceded["Goals"] = 1
 
-            goal_scored_graph = px.bar(
-                goal_scored, 
-                x = select_goal_scored_groupby,
-                y = "Goals",
-                template = "plotly_dark"
-                )
+                select_goal_conceded = st.selectbox(
+                        "Select season:", goal_conceded["Season"].unique(),
+                        key= "94"
+                    )
+                
 
-            st.plotly_chart(goal_scored_graph)
+                if select_goal_conceded_groupby == "Minute":
+                    goal_conceded = goal_conceded[goal_conceded["Season"]==select_goal_conceded].iloc[:,[11,8]]
+                elif select_goal_conceded_groupby == "Period":
+                    goal_conceded = goal_conceded[goal_conceded["Season"]==select_goal_conceded].iloc[:,[11,2]]
+                
+                goal_conceded = goal_conceded.groupby(select_goal_conceded_groupby).count().reset_index()
 
-    
+                goal_conceded_graph = px.bar(
+                    goal_conceded, 
+                    x = select_goal_conceded_groupby,
+                    y = "Goals",
+                    template = "plotly_dark"
+                    )
 
+                st.plotly_chart(goal_conceded_graph)
 
+            elif goal_conceded_ind == False:
+                
+                goal_conceded["Goals"] = 1
 
-
-
-
-
-
-
-
-        goal_conceded = opponent_goal_table
-        st.subheader("Goals conceded per minutes/period")
-
-        col1, col2 = st.columns(2)
-        with col1:
-            select_goal_conceded_groupby = st.selectbox(
-                "Minute/period:", goal_conceded.columns[[8,2]],
-                key="215"
-            )
-
-        with col2:
-            st.write("Apply filter")
-            goal_conceded_ind = st.checkbox("", key="asda")
+                if select_goal_conceded_groupby == "Minute":
+                    goal_conceded = goal_conceded.iloc[:,[11,8]]
+                elif select_goal_conceded_groupby == "Period":
+                    goal_conceded = goal_conceded.iloc[:,[11,2]]
 
 
-        if goal_conceded_ind:
-            
-            goal_conceded["Goals"] = 1
+                
+                goal_conceded = goal_conceded.groupby(select_goal_conceded_groupby).count().reset_index()
 
-            select_goal_conceded = st.selectbox(
-                    "Select season:", goal_conceded["Season"].unique(),
-                    key= "94"
-                )
-            
+                goal_conceded_graph = px.bar(
+                    goal_conceded, 
+                    x = select_goal_conceded_groupby,
+                    y = "Goals",
+                    template = "plotly_dark"
+                    )
 
-            if select_goal_conceded_groupby == "Minute":
-                goal_conceded = goal_conceded[goal_conceded["Season"]==select_goal_conceded].iloc[:,[11,8]]
-            elif select_goal_conceded_groupby == "Period":
-                goal_conceded = goal_conceded[goal_conceded["Season"]==select_goal_conceded].iloc[:,[11,2]]
-            
-            goal_conceded = goal_conceded.groupby(select_goal_conceded_groupby).count().reset_index()
-
-            goal_conceded_graph = px.bar(
-                goal_conceded, 
-                x = select_goal_conceded_groupby,
-                y = "Goals",
-                template = "plotly_dark"
-                )
-
-            st.plotly_chart(goal_conceded_graph)
-
-        elif goal_conceded_ind == False:
-            
-            goal_conceded["Goals"] = 1
-
-            if select_goal_conceded_groupby == "Minute":
-                goal_conceded = goal_conceded.iloc[:,[11,8]]
-            elif select_goal_conceded_groupby == "Period":
-                goal_conceded = goal_conceded.iloc[:,[11,2]]
-
-
-            
-            goal_conceded = goal_conceded.groupby(select_goal_conceded_groupby).count().reset_index()
-
-            goal_conceded_graph = px.bar(
-                goal_conceded, 
-                x = select_goal_conceded_groupby,
-                y = "Goals",
-                template = "plotly_dark"
-                )
-
-            st.plotly_chart(goal_conceded_graph)
+                st.plotly_chart(goal_conceded_graph)
 
         st.subheader("")
         st.subheader("")
@@ -528,9 +535,18 @@ def load_team(which):
                 )
         st.plotly_chart(Penalties_graph)
 
+        pivot_team_penalty_table_player = pd.pivot_table(FINAL_team_penalty_table,
+            index=['Player'],
+            aggfunc={'TM': np.sum}
+            ).sort_values("TM", ascending=False)
 
-
-
+        Penalties_graph_player = px.bar(
+                pivot_team_penalty_table_player, 
+                x = pivot_team_penalty_table_player.index,
+                y = "TM",
+                template = "plotly_dark"
+                )
+        st.plotly_chart(Penalties_graph_player)
 
     elif stat_type == "Individual statistics":
         st.markdown("The site will visualize the player's statistics")
