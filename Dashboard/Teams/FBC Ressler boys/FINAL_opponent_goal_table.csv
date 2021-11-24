@@ -1,0 +1,987 @@
+,Id,Period,Time,Type,Goal,Assist,Season,Minute,Seconds,Seconds_all
+0,2415,2,12:01,-, Dušan Pavlík,,2008/2009,12,1,721
+1,2415,3,02:11,-, Vladimír Ouřada, Jan Volf,2008/2009,2,11,131
+2,2415,3,12:29,-, Jan Volf, Jiří Dohnal,2008/2009,12,29,749
+0,2420,1,01:23,-, Filip Rubeš, Petr Machovec,2008/2009,1,23,83
+1,2420,1,07:50,-, Martin Svítil, Lukáš Rubeš,2008/2009,7,50,470
+2,2420,2,04:21,-, Filip Rubeš,,2008/2009,4,21,261
+3,2420,2,11:48,-, Martin Štamfest, Petr Machovec,2008/2009,11,48,708
+4,2420,2,12:16,-, Martin Štamfest, Martin Svítil,2008/2009,12,16,736
+5,2420,3,04:18,-, Petr Machovec, Filip Rubeš,2008/2009,4,18,258
+0,3413,1,04:45,-, Jan Klozar, Daniel Švarc,2008/2009,4,45,285
+1,3413,1,05:23,-, Martin Rejmiš, Filip Červený,2008/2009,5,23,323
+2,3413,1,11:43,-, Miroslav Veselík, Martin Rejmiš,2008/2009,11,43,703
+3,3413,1,13:04,-, Filip Červený, Pavel Švarc,2008/2009,13,4,784
+4,3413,1,14:36,-, Jan Klozar, Martin Luhan,2008/2009,14,36,876
+5,3413,2,04:18,-, Pavel Švarc, Martin Rejmiš,2008/2009,4,18,258
+6,3413,3,09:30,-, Pavel Švarc, Filip Červený,2008/2009,9,30,570
+7,3413,3,14:49,-, Daniel Švarc, Jan Klozar,2008/2009,14,49,889
+0,3419,3,00:49,-, Jiří Chrobok,,2008/2009,0,49,49
+1,3419,3,06:07,-, Jiří Chrobok, Ladislav Peleška,2008/2009,6,7,367
+0,3450,1,07:14,-, Filip Bollardt, Jan Sládek,2008/2009,7,14,434
+1,3450,2,04:58,-, Antonín Kroupa, Jan Sládek,2008/2009,4,58,298
+2,3450,3,03:40,-, Petr Kleprlík, Ondřej Polák,2008/2009,3,40,220
+3,3450,3,05:39,-, Filip Bollardt, Jan Sládek,2008/2009,5,39,339
+4,3450,3,10:11,-, Luděk Kleprlík, Michal Muravský,2008/2009,10,11,611
+5,3450,3,12:48,-, Michal Muravský, Michael Knittl,2008/2009,12,48,768
+6,3450,3,13:59,-, Tomáš Zicha, Jan Sládek,2008/2009,13,59,839
+0,3448,2,02:14,-, Adam Šumelda, Michal Ždímal,2008/2009,2,14,134
+1,3448,2,06:51,SH, Tomáš Hodek,,2008/2009,6,51,411
+2,3448,2,09:39,-, Jakub Ších, Vojtěch Machačka,2008/2009,9,39,579
+3,3448,3,06:29,-, Tomáš Hodek, Ivan Šumelda,2008/2009,6,29,389
+4,3448,3,08:09,-, Miroslav Václavík,,2008/2009,8,9,489
+0,6029,2,00:36,-, Ondřej Materna, Marek Kuneš,2008/2009,0,36,36
+0,6182,1,09:35,-, Roman Arnošt, Jan Škoda,2008/2009,9,35,575
+1,6182,1,13:33,-, Pavel Pokorný, Jaroslav Pokorný,2008/2009,13,33,813
+2,6182,2,08:19,-, Petr Haspeklo, Jan Škoda,2008/2009,8,19,499
+3,6182,3,14:59,-, Pavel Pokorný, Roman Arnošt,2008/2009,14,59,899
+0,6472,2,01:42,-, Tomáš Kameník, Libor Koubek,2008/2009,1,42,102
+1,6472,2,08:14,-, Libor Koubek,,2008/2009,8,14,494
+2,6472,3,08:16,-, David Karel, Jan Hloušek,2008/2009,8,16,496
+3,6472,3,14:19,-, Marek Šafařík, Libor Koubek,2008/2009,14,19,859
+0,6470,1,05:12,-, Martin Švehla, Karel Kocián,2008/2009,5,12,312
+1,6470,2,01:33,-, Martin Švehla, Jan Maťátko,2008/2009,1,33,93
+0,456,2,00:53,-, Lukáš Rubeš, Filip Rubeš,2008/2009,0,53,53
+1,456,2,12:02,-, Filip Rubeš, Lukáš Rubeš,2008/2009,12,2,722
+2,456,3,03:52,-, Aleš Holinský, Martin Řepka,2008/2009,3,52,232
+3,456,3,03:56,-, Martin Řepka, Lukáš Rubeš,2008/2009,3,56,236
+0,8515,1,07:38,-, Filip Červený, Martin Rejmiš,2008/2009,7,38,458
+0,9641,3,02:05,-, Jan Slavíček,,2008/2009,2,5,125
+0,9636,1,12:51,-, Daniel Veselý,,2008/2009,12,51,771
+1,9636,2,05:14,-, David Šrámek,,2008/2009,5,14,314
+2,9636,3,14:58,-, Petr Kleprlík, Michal Vrňák,2008/2009,14,58,898
+0,10203,1,01:47,-, Michal Ždímal, Jakub Ších,2008/2009,1,47,107
+1,10203,2,11:17,-, Jakub Ších, Prokop Váňa,2008/2009,11,17,677
+2,10203,3,13:26,PP, Tomáš Hodek, Tomáš Kopejsko,2008/2009,13,26,806
+0,10206,1,10:03,-, Petr Vrchota, Vladimír Provazník,2008/2009,10,3,603
+1,10206,3,07:17,-, Eduard Frey, Petr Vrchota,2008/2009,7,17,437
+2,10206,3,13:25,-, Daniel Knopp, Jiří Cimler,2008/2009,13,25,805
+3,10206,3,14:49,-, Tomáš Blahoš, Petr Vrchota,2008/2009,14,49,889
+0,12532,1,00:43,-, Jakub Šára, Josef Charvát,2008/2009,0,43,43
+1,12532,2,11:53,-, Petr Altman, Štěpán Jaroch,2008/2009,11,53,713
+2,12532,2,13:40,-, Petr Altman,,2008/2009,13,40,820
+0,12900,2,05:16,PP, Lukáš Menšík, Petr Haspeklo,2008/2009,5,16,316
+1,12900,3,10:40,-, Pavol Zajac, Jan Plechata,2008/2009,10,40,640
+2,12900,3,14:12,-, Petr Haspeklo, Zoltán Gergely,2008/2009,14,12,852
+0,12904,1,00:23,-, Richard Lučan, Tomáš Kameník,2008/2009,0,23,23
+1,12904,1,02:19,-, Tomáš Kameník, Marek Šafařík,2008/2009,2,19,139
+2,12904,1,06:20,-, Tomáš Kameník, Richard Lučan,2008/2009,6,20,380
+3,12904,2,08:17,-, Jan Hloušek, Luboš Sadílek,2008/2009,8,17,497
+4,12904,2,11:33,PS, Marek Šafařík,,2008/2009,11,33,693
+5,12904,3,09:12,-, Tomáš Kameník, Libor Koubek,2008/2009,9,12,552
+6,12904,3,14:41,-, Luboš Sadílek, Marek Šafařík,2008/2009,14,41,881
+0,14226,2,02:41,-, Michal Rukavička, Petr Popelka,2009/2010,2,41,161
+1,14226,3,09:09,-, Michal Rukavička, Michal Šik,2009/2010,9,9,549
+0,14224,1,01:06,-, Daniel Kubát, Michal Kulhánek,2009/2010,1,6,66
+1,14224,1,11:43,-, Daniel Kubát,,2009/2010,11,43,703
+0,15977,2,01:11,-, Jan Sobota, Jakub Podhorný,2009/2010,1,11,71
+1,15977,2,10:07,-, Roman Šeiner, Jan Kněžínek,2009/2010,10,7,607
+2,15977,3,01:01,-, Jan Sobota, Jakub Podhorný,2009/2010,1,1,61
+3,15977,3,06:54,PP, Jan Sobota, Radek Tázler,2009/2010,6,54,414
+4,15977,3,11:25,-, Jan Sobota, Michal Zítek,2009/2010,11,25,685
+5,15977,3,11:54,-, Petr Brychta, Karel Sita,2009/2010,11,54,714
+0,15986,1,00:22,-, Martin Tuček, Jan Hruška,2009/2010,0,22,22
+1,15986,1,03:01,SH, Jan Hruška, Lukáš Koťátko,2009/2010,3,1,181
+0,17157,1,00:41,-, Ota Hauptmann,,2009/2010,0,41,41
+1,17157,1,09:40,-, Milan Štěrba, Jakub Dvořák,2009/2010,9,40,580
+2,17157,2,02:18,-, Jan Čížek,,2009/2010,2,18,138
+3,17157,3,01:20,-, Milan Štěrba, Jakub Dvořák,2009/2010,1,20,80
+4,17157,3,05:08,-, David Mráz, Jan Čížek,2009/2010,5,8,308
+5,17157,3,06:40,-, Milan Štěrba, Jakub Dvořák,2009/2010,6,40,400
+6,17157,3,06:53,-, David Mráz,,2009/2010,6,53,413
+7,17157,3,09:17,-, Milan Štěrba, Hynek Hampl,2009/2010,9,17,557
+8,17157,3,11:12,-, Jan Čížek, Martin Kalous,2009/2010,11,12,672
+0,17158,1,05:52,-, Jakub Stárek,,2009/2010,5,52,352
+1,17158,2,09:40,PP, Zdeněk Novák, Jakub Žolčák,2009/2010,9,40,580
+2,17158,3,04:47,-, Jakub Žolčák, Zdeněk Novák,2009/2010,4,47,287
+3,17158,3,05:13,-, Jan Papoušek, Tomáš Vendl,2009/2010,5,13,313
+4,17158,3,08:30,SH, Tomáš Vendl, Jan Tichý,2009/2010,8,30,510
+0,18371,1,02:24,-, Michal Černý, Pavel Vlasák,2009/2010,2,24,144
+1,18371,1,03:13,-, Lukáš Fulín, Jan Vážný,2009/2010,3,13,193
+2,18371,2,10:47,-, Adam Podrázský, Michal Černý,2009/2010,10,47,647
+3,18371,2,11:01,-, Pavel Vlasák, David Hofmann,2009/2010,11,1,661
+4,18371,3,02:02,-, Jan Vážný,,2009/2010,2,2,122
+5,18371,3,05:07,-, Pavel Vlasák,,2009/2010,5,7,307
+0,18389,3,08:10,-, Vojtěch Novák, Michal Pozler,2009/2010,8,10,490
+1,18389,3,08:34,-, František Schirl, Josef Slavík,2009/2010,8,34,514
+0,19348,1,03:29,-, Filip Bělský,,2009/2010,3,29,209
+1,19348,2,00:25,-, Milan Votrubec, Filip Bělský,2009/2010,0,25,25
+2,19348,2,06:30,-, Tomáš Dedek, Jan Zahálka,2009/2010,6,30,390
+3,19348,2,10:42,-, Filip Bělský,,2009/2010,10,42,642
+4,19348,2,11:27,PP, Filip Bělský,,2009/2010,11,27,687
+0,19350,2,05:39,-, Ondřej Novotný, Matouš Novosad,2009/2010,5,39,339
+1,19350,3,08:23,-, Lukáš Grygar,,2009/2010,8,23,503
+2,19350,3,11:08,-, Jan Kořínek, Michal Tuma,2009/2010,11,8,668
+0,21084,2,05:59,-, Jan Bambas, Petr Popelka,2009/2010,5,59,359
+1,21084,2,08:39,-, Jan Kučera, Jan Zapadlo,2009/2010,8,39,519
+2,21084,3,01:42,-, Michal Šik, Petr Popelka,2009/2010,1,42,102
+3,21084,3,11:42,-, Michal Šik, Marek Mandler,2009/2010,11,42,702
+0,21821,1,11:41,PP, Tomáš Klimt, Daniel Kubát,2009/2010,11,41,701
+1,21821,2,04:28,-, Daniel Kubát, Jakub Michalik,2009/2010,4,28,268
+2,21821,2,10:36,-, Tomáš Schuch, Jaroslav Krupička,2009/2010,10,36,636
+3,21821,3,07:09,-, Tomáš Klimt, Roman Bezouška,2009/2010,7,9,429
+4,21821,3,11:49,-, Daniel Kubát, Michal Kulhánek,2009/2010,11,49,709
+0,21824,1,05:03,-, Petr Brychta, Karel Sita,2009/2010,5,3,303
+1,21824,1,09:27,-, Petr Brychta,,2009/2010,9,27,567
+2,21824,1,10:21,-, Jan Tománek, Karel Sita,2009/2010,10,21,621
+3,21824,3,08:06,-, Petr Brychta, Karel Sita,2009/2010,8,6,486
+0,23281,1,09:50,-, Miroslav Kaplan, Lukáš Koťátko,2009/2010,9,50,590
+1,23281,2,04:02,-, Michal Kučera, Miroslav Kaplan,2009/2010,4,2,242
+2,23281,2,09:45,-, Miroslav Kaplan, Jan Hruška,2009/2010,9,45,585
+3,23281,2,10:43,-, Marek Mojžíš, Miroslav Kaplan,2009/2010,10,43,643
+4,23281,2,11:20,-, Marek Pucholt, Martin Tuček,2009/2010,11,20,680
+5,23281,3,09:55,-, Jan Hruška, Marek Pucholt,2009/2010,9,55,595
+0,23278,1,04:19,-, Martin Král, Martin Czeczinkar,2009/2010,4,19,259
+1,23278,2,02:27,-, Aleš Těhle, Ota Hauptmann,2009/2010,2,27,147
+0,24752,1,00:43,-, Zdeněk Novák, Petr Borovec,2009/2010,0,43,43
+1,24752,1,08:43,-, Zdeněk Novák, Jakub Žolčák,2009/2010,8,43,523
+2,24752,3,09:16,-, Petr Borovec, Jakub Žolčák,2009/2010,9,16,556
+0,24754,1,01:34,-, Patrik Čeliš, Tomáš Grigar,2009/2010,1,34,94
+1,24754,2,07:33,-, Tomáš Grigar,,2009/2010,7,33,453
+2,24754,3,00:51,-, Michal Černý, Tomáš Grigar,2009/2010,0,51,51
+3,24754,3,03:08,PP, Jan Vážný, Tomáš Grigar,2009/2010,3,8,188
+4,24754,3,05:58,-, Tomáš Grigar,,2009/2010,5,58,358
+5,24754,3,09:19,-, Patrik Čeliš, Adam Podrázský,2009/2010,9,19,559
+6,24754,3,10:10,-, Robert Sysala,,2009/2010,10,10,610
+7,24754,3,11:37,-, Lukáš Fulín, Tomáš Grigar,2009/2010,11,37,697
+0,25954,3,02:58,-, Lukáš Fietzek, Vojtěch Novák,2009/2010,2,58,178
+0,25950,1,00:54,-, Filip Bělský, Jakub Pavel,2009/2010,0,54,54
+1,25950,1,01:08,-, Jakub Pavel, Filip Bělský,2009/2010,1,8,68
+2,25950,2,11:39,-, Filip Bělský,,2009/2010,11,39,699
+3,25950,3,08:42,-, Pavel Kuchynka, Filip Bělský,2009/2010,8,42,522
+0,27336,1,00:20,-, Tomáš Růta, Petr Janský,2009/2010,0,20,20
+1,27336,1,02:03,OG, Ctibor Chmelař,,2009/2010,2,3,123
+2,27336,1,05:01,-, Tomáš Růta, Lukáš Franz,2009/2010,5,1,301
+3,27336,1,10:19,-, Jan Kořínek, Martin Staněk,2009/2010,10,19,619
+4,27336,2,03:47,-, Jan Kořínek, Michal Koníček,2009/2010,3,47,227
+5,27336,2,05:18,-, Lukáš Franz,,2009/2010,5,18,318
+6,27336,2,06:48,-, Petr Janský, Jan Vitík,2009/2010,6,48,408
+7,27336,2,07:56,-, Lukáš Pokorný, Michal Tuma,2009/2010,7,56,476
+8,27336,3,11:34,PP, Tomáš Růta, Matouš Novosad,2009/2010,11,34,694
+0,29252,1,06:30,-, Štěpán Pavelka, Libor Vilímec,2010/2011,6,30,390
+1,29252,2,09:24,-, Štěpán Pavelka, Václav Skopový,2010/2011,9,24,564
+2,29252,3,11:55,-, Libor Vilímec, Václav Skopový,2010/2011,11,55,715
+0,29250,3,11:38,-, Jan Bašta,,2010/2011,11,38,698
+1,29250,3,11:47,-, Jan Bašta,,2010/2011,11,47,707
+0,30521,1,00:39,-, Ivan Preisler, Miroslav Špaček,2010/2011,0,39,39
+1,30521,1,02:38,-, Jiří Žilinský, Ivan Preisler,2010/2011,2,38,158
+2,30521,2,01:31,-, Ivan Preisler, Jaroslav Český,2010/2011,1,31,91
+3,30521,2,03:04,-, Miroslav Špaček, Jan Urbanec,2010/2011,3,4,184
+4,30521,2,04:54,-, Jaroslav Český, Jiří Žilinský,2010/2011,4,54,294
+5,30521,3,00:37,-, Vít Vrtiška, Jan Klimus,2010/2011,0,37,37
+0,30518,2,08:15,-, Martin Kašík,,2010/2011,8,15,495
+1,30518,2,10:26,-, Jakub Kricner, Martin Kašík,2010/2011,10,26,626
+2,30518,2,11:35,-, Jan Rychtařík, Jan Šik,2010/2011,11,35,695
+3,30518,3,02:23,-, Martin Kašík, Jakub Kricner,2010/2011,2,23,143
+4,30518,3,08:25,-, Jan Kadlec,,2010/2011,8,25,505
+0,31231,2,02:25,-, Martin Matoška, Kateřina Holubová,2010/2011,2,25,145
+1,31231,2,08:36,-, Petr Dupač, Jan Srb,2010/2011,8,36,516
+0,31228,2,11:21,-, Stanislav Heřman, Lubomír Mrazík,2010/2011,11,21,681
+1,31228,3,02:51,-, Lukáš Bokr, Václav Hrubý,2010/2011,2,51,171
+2,31228,3,08:01,-, Václav Hrubý, Lukáš Bokr,2010/2011,8,1,481
+0,32999,1,03:27,-, Karel Kovács,,2010/2011,3,27,207
+1,32999,2,02:48,-, Lukáš Jenšík, Sebastian Sticzay,2010/2011,2,48,168
+0,32921,1,04:45,-, Aleš Chod, Tomáš Pícha,2010/2011,4,45,285
+1,32921,1,08:45,-, Adam Vyhnal,,2010/2011,8,45,525
+2,32921,1,11:56,-, Aleš Chod, Matyáš Pokorný,2010/2011,11,56,716
+3,32921,2,06:13,PP, Matyáš Pokorný, Tomáš Pícha,2010/2011,6,13,373
+4,32921,2,09:32,-, Aleš Chod, Matyáš Pokorný,2010/2011,9,32,572
+5,32921,2,11:33,-, Aleš Chod, Matyáš Pokorný,2010/2011,11,33,693
+6,32921,3,09:40,-, Aleš Chod, Tomáš Pícha,2010/2011,9,40,580
+0,34411,3,02:01,-, Tomáš Bízek, Robert Kučírka,2010/2011,2,1,121
+1,34411,3,06:47,-, Robert Kučírka, Jiří Čala,2010/2011,6,47,407
+0,35918,2,02:05,-, Zdeněk Burian, Vojtěch Hynek,2010/2011,2,5,125
+1,35918,2,02:48,-, Vojtěch Skopový, Štěpán Pavelka,2010/2011,2,48,168
+2,35918,2,05:32,-, Tomáš Kružík, Vojtěch Skopový,2010/2011,5,32,332
+3,35918,2,10:16,-, Libor Vilímec, Tomáš Kružík,2010/2011,10,16,616
+4,35918,3,02:46,PS, Vojtěch Skopový,,2010/2011,2,46,166
+5,35918,3,07:25,-, Vojtěch Hynek, Petr Dvořák,2010/2011,7,25,445
+0,35915,1,07:21,PP, Ondřej Pícha, Michal Kuklík,2010/2011,7,21,441
+1,35915,2,07:53,-, Petr Zeman, Petr Nevšímal,2010/2011,7,53,473
+0,38225,2,04:07,-, Jan Hruška, Jan Kadlec,2010/2011,4,7,247
+1,38225,2,07:13,-, Petr Slezák,,2010/2011,7,13,433
+2,38225,2,11:26,-, Jakub Kricner, Jan Rychtařík,2010/2011,11,26,686
+3,38225,3,01:17,-, Jan Hruška, Jakub Votruba,2010/2011,1,17,77
+4,38225,3,11:25,-, Jakub Votruba, Jan Hruška,2010/2011,11,25,685
+5,38225,3,11:53,-, Stanislav Zajíček, Jiří Kundrata,2010/2011,11,53,713
+0,38223,1,10:05,-, Jan Urbanec, Jan Klimus,2010/2011,10,5,605
+0,28904,1,03:06,-, Jan Čapek, Lukáš Bokr,2010/2011,3,6,186
+1,28904,1,07:59,-, Jan Čapek, Lukáš Bokr,2010/2011,7,59,479
+0,40660,1,07:29,-, Martin Zíma, Michael Rudolf,2010/2011,7,29,449
+1,40660,1,11:00,-, Jakub Dajčar, Jiří Vacek,2010/2011,11,0,660
+2,40660,2,04:21,-, Michael Rudolf, Lukáš Jenšík,2010/2011,4,21,261
+3,40660,2,08:46,-, Vojtěch Šafránek, Petr Benedikt,2010/2011,8,46,526
+4,40660,3,06:25,-, Vojtěch Šafránek, Petr Benedikt,2010/2011,6,25,385
+0,41547,1,10:26,-, Matyáš Pokorný, David Rainhart,2010/2011,10,26,626
+1,41547,2,07:40,-, Tomáš Pícha, Matyáš Pokorný,2010/2011,7,40,460
+2,41547,2,09:31,-, Matyáš Pokorný, Tomáš Pícha,2010/2011,9,31,571
+3,41547,3,07:01,-, David Rainhart, Tomáš Pícha,2010/2011,7,1,421
+4,41547,3,10:08,-, Matyáš Pokorný,,2010/2011,10,8,608
+0,43569,2,09:08,PP, Rudolf Gregor, Jiří Čala,2010/2011,9,8,548
+1,43569,3,04:00,-, Jakub Kopecký, Robert Kučírka,2010/2011,4,0,240
+2,43569,3,04:19,-, Robert Kučírka, Jakub Kopecký,2010/2011,4,19,259
+0,46482,1,11:19,-, David Kohout, Tomáš Vrabec,2011/2012,11,19,679
+1,46482,3,05:31,-, Filip Červený, Lukáš Malý,2011/2012,5,31,331
+2,46482,3,05:59,-, David Kohout, Jiří Bábek,2011/2012,5,59,359
+3,46482,3,07:53,-, Jiří Bábek, Filip Červený,2011/2012,7,53,473
+0,48470,1,05:09,PP, Jiří Adam, Václav Římal,2011/2012,5,9,309
+1,48470,2,03:47,-, Jan Havránek, Jakub Barták,2011/2012,3,47,227
+2,48470,2,07:05,-, Jakub Barták,,2011/2012,7,5,425
+3,48470,3,04:23,PP, Jakub Barták, Václav Římal,2011/2012,4,23,263
+4,48470,3,05:25,-, Vojtěch Moravec, Jakub Bilík,2011/2012,5,25,325
+5,48470,3,09:04,-, Jiří Adam,,2011/2012,9,4,544
+6,48470,3,09:50,-, Jakub Bilík, Jakub Barták,2011/2012,9,50,590
+0,48466,1,01:34,-, Tomáš Pícha, Aleš Chod,2011/2012,1,34,94
+1,48466,2,05:13,-, Matyáš Pokorný, Tomáš Pícha,2011/2012,5,13,313
+0,50281,1,02:15,-, Michal Mikeš, Jaroslav Biskup,2011/2012,2,15,135
+1,50281,1,07:09,-, Tomáš Formánek, Ondřej Krejza,2011/2012,7,9,429
+2,50281,2,00:35,-, Tomáš Horák, Michal Mikeš,2011/2012,0,35,35
+3,50281,3,02:22,-, Tomáš Formánek, Aleš Bílek,2011/2012,2,22,142
+0,50278,1,00:10,-, Oldřich Pešek, Tomáš Grznár,2011/2012,0,10,10
+1,50278,2,05:33,-, Oldřich Pešek, Tomáš Grznár,2011/2012,5,33,333
+2,50278,3,06:09,-, Tomáš Grznár, Oldřich Pešek,2011/2012,6,9,369
+0,52514,2,06:28,-, Bohuslav Bek, Petr Chýle,2011/2012,6,28,388
+0,53206,1,07:00,-, Jan Urbanec, Tomáš Doležal,2011/2012,7,0,420
+1,53206,2,04:41,PP, Miroslav Mašek, Miroslav Špaček,2011/2012,4,41,281
+0,53208,2,00:29,-, Robin Franče, Michal Karban,2011/2012,0,29,29
+0,55810,3,07:06,-, David Kohout, Oskar Bábek,2011/2012,7,6,426
+1,55810,3,10:17,-, Oskar Bábek,,2011/2012,10,17,617
+0,56545,1,10:24,-, Jiří Adam, Jakub Barták,2011/2012,10,24,624
+1,56545,3,01:11,-, Jiří Adam, Václav Římal,2011/2012,1,11,71
+0,56541,2,04:14,-, Filip Horálek, Jan Coufal,2011/2012,4,14,254
+1,56541,3,01:09,-, Radek Vichta, Martin Mičlo,2011/2012,1,9,69
+2,56541,3,02:57,-, Filip Horálek,,2011/2012,2,57,177
+3,56541,3,08:42,PP, Filip Horálek, Martin Mičlo,2011/2012,8,42,522
+4,56541,3,09:48,PP, Martin Mičlo, Matyáš Pokorný,2011/2012,9,48,588
+0,58485,1,05:08,PP, Oldřich Pešek, Jan Voříšek,2011/2012,5,8,308
+1,58485,1,06:22,SH, Tomáš Grznár, Lukáš Frydrych,2011/2012,6,22,382
+2,58485,2,10:13,-, Miroslav Šíp, Oldřich Pilecký,2011/2012,10,13,613
+3,58485,3,00:10,-, Oldřich Pilecký,,2011/2012,0,10,10
+0,58483,3,04:16,PS, Tomáš Horák,,2011/2012,4,16,256
+0,59987,1,03:43,-, Petr Chýle, Ondřej Šplíchal,2011/2012,3,43,223
+1,59987,1,07:03,-, Martin Chýle, Petr Chýle,2011/2012,7,3,423
+2,59987,3,06:44,PP, Boris Černý, Bohuslav Bek,2011/2012,6,44,404
+3,59987,3,09:06,-, Boris Černý, Bohuslav Bek,2011/2012,9,6,546
+0,61490,2,03:04,-, Michal Karban, Robin Franče,2011/2012,3,4,184
+1,61490,2,11:15,-, Jakub Mintal, Michal Kocourek,2011/2012,11,15,675
+2,61490,3,04:58,PP, Michal Kocourek, Robin Franče,2011/2012,4,58,298
+3,61490,3,08:49,-, Robin Franče, Michal Karban,2011/2012,8,49,529
+0,61483,2,04:14,-, Miroslav Mašek, Jan Urbanec,2011/2012,4,14,254
+1,61483,3,07:17,-, Vít Vrtiška, Jaroslav Český,2011/2012,7,17,437
+0,64575,1,08:57,-, Lukáš Fietzek, Tomáš Pilař,2012/2013,8,57,537
+1,64575,2,02:30,-, Lukáš Fietzek, Ondřej Daniš,2012/2013,2,30,150
+2,64575,3,11:46,-, Tomáš Pilař,,2012/2013,11,46,706
+0,64573,1,00:55,-, Martin Uher, Tomáš Jelínek,2012/2013,0,55,55
+1,64573,1,02:19,-, Tomáš Jeřábek,,2012/2013,2,19,139
+2,64573,2,03:12,-, Martin Uher, Tomáš Jeřábek,2012/2013,3,12,192
+0,66191,1,04:38,-, Martin Smetana, Martin Švácha,2012/2013,4,38,278
+1,66191,2,03:31,PP, David Martynek, Martin Smetana,2012/2013,3,31,211
+2,66191,3,03:45,PP, Vítek Vančura, Martin Bezchleba,2012/2013,3,45,225
+0,66193,1,01:07,-, Jaroslav Vlček, Jaroslav Skácel,2012/2013,1,7,67
+1,66193,2,03:54,-, Jaroslav Skácel, Jan Slabý,2012/2013,3,54,234
+2,66193,2,08:34,-, Jaroslav Skácel, Jaroslav Vlček,2012/2013,8,34,514
+3,66193,3,01:48,PP, Jaroslav Vlček, Martin Sičár,2012/2013,1,48,108
+4,66193,3,04:45,-, Jaroslav Vlček, Martin Sičár,2012/2013,4,45,285
+0,67676,1,05:30,-, Petr Švancar, Vojtěch Paul,2012/2013,5,30,330
+1,67676,2,03:25,-, Jaroslav Šimek, Evžen Teringl,2012/2013,3,25,205
+2,67676,3,04:41,-, Evžen Teringl, Jaroslav Šimek,2012/2013,4,41,281
+3,67676,3,09:38,-, Petr Veselý,,2012/2013,9,38,578
+0,67674,1,06:07,PP, Martin Kostiha,,2012/2013,6,7,367
+1,67674,2,05:05,-, Martin Kostiha, Daniel Šonský,2012/2013,5,5,305
+2,67674,2,05:45,-, Marek Vrána, Jakub Valchář,2012/2013,5,45,345
+3,67674,2,08:00,-, Marek Bíl, Martin Kostiha,2012/2013,8,0,480
+4,67674,2,10:49,-, Daniel Šonský, Martin Špaček,2012/2013,10,49,649
+5,67674,3,09:07,-, Lukáš Recht,,2012/2013,9,7,547
+0,69444,1,04:38,-, Ondřej Karnet, Tomáš Košulič,2012/2013,4,38,278
+1,69444,1,09:50,-, Ondřej Karnet, Tomáš Prokop,2012/2013,9,50,590
+2,69444,1,11:24,-, Tomáš Košulič, Radim Špejra,2012/2013,11,24,684
+3,69444,3,09:47,SH, Michal Stome, Radim Špejra,2012/2013,9,47,587
+0,69442,1,01:31,-, Jakub Svoboda, Michal Kalista,2012/2013,1,31,91
+1,69442,1,02:16,-, Jakub Svoboda, David Louda,2012/2013,2,16,136
+2,69442,1,04:38,-, David Louda, Jakub Svoboda,2012/2013,4,38,278
+3,69442,1,07:20,-, Aleš Hrdina, Jakub Košler,2012/2013,7,20,440
+4,69442,2,04:04,-, Jakub Svoboda, Michal Kalista,2012/2013,4,4,244
+5,69442,2,07:38,-, David Soukup, Jiří Kroulík,2012/2013,7,38,458
+6,69442,2,08:42,PS, Jakub Svoboda,,2012/2013,8,42,522
+7,69442,3,01:48,PP, Dalibor Koman, Vladimír Pinc,2012/2013,1,48,108
+8,69442,3,04:48,-, Michal Kalista, Jakub Svoboda,2012/2013,4,48,288
+9,69442,3,05:52,-, Jakub Košler, Tomáš Jančovič,2012/2013,5,52,352
+10,69442,3,06:20,-, David Louda, Jakub Svoboda,2012/2013,6,20,380
+0,69398,1,02:36,-, Daniel Lerch,,2012/2013,2,36,156
+1,69398,3,10:55,-, Radek Hosnedl, Jan Klesnil,2012/2013,10,55,655
+0,69401,2,01:28,PS, Josef Bradáč,,2012/2013,1,28,88
+1,69401,2,02:01,-, Lukáš Ruda, Roman Tauš,2012/2013,2,1,121
+2,69401,2,07:37,-, Martin Švehla, Roman Tauš,2012/2013,7,37,457
+3,69401,3,02:17,-, Josef Bradáč, Jan Maťátko,2012/2013,2,17,137
+0,72096,1,03:41,-, Lukáš Průcha,,2012/2013,3,41,221
+1,72096,2,07:10,-, Tomáš Jelínek, Martin Uher,2012/2013,7,10,430
+2,72096,3,09:07,-, Tomáš Jelínek, Martin Uher,2012/2013,9,7,547
+0,73820,3,01:31,-, David Martynek, Jakub Lacina,2012/2013,1,31,91
+0,73818,2,05:27,-, Martin Karlovský,,2012/2013,5,27,327
+1,73818,2,09:06,-, Martin Karlovský, Lukáš Fietzek,2012/2013,9,6,546
+2,73818,3,05:58,PP, Martin Karlovský, Ondřej Daniš,2012/2013,5,58,358
+0,76508,1,05:52,-, Michal Mora,,2012/2013,5,52,352
+1,76508,2,04:19,-, František Burian, Pavel Zeman,2012/2013,4,19,259
+0,76505,1,04:15,-, Jakub Horáček, Jakub Zalubil,2012/2013,4,15,255
+1,76505,1,04:44,-, Jakub Horáček, Jakub Zalubil,2012/2013,4,44,284
+2,76505,2,09:59,PP, Petr Mikysek, Marek Bíl,2012/2013,9,59,599
+3,76505,2,11:04,PP, Jan Kalenda, Jakub Zalubil,2012/2013,11,4,664
+0,77841,1,04:59,-, Jakub Svoboda,,2012/2013,4,59,299
+1,77841,1,10:29,-, Václav Bendl, Jakub Svoboda,2012/2013,10,29,629
+2,77841,2,01:11,-, Aleš Hrdina, Jakub Svoboda,2012/2013,1,11,71
+3,77841,2,02:23,-, Václav Bendl, Vladimír Pinc,2012/2013,2,23,143
+4,77841,2,03:46,-, Aleš Hrdina, Vladimír Pinc,2012/2013,3,46,226
+5,77841,2,11:14,-, Jiří Kroulík, Jakub Košler,2012/2013,11,14,674
+6,77841,3,03:41,-, David Soukup, Aleš Hrdina,2012/2013,3,41,221
+0,77839,1,06:48,-, Jan Vrba,,2012/2013,6,48,408
+1,77839,1,08:04,-, Vojtěch Paul, Jan Vrba,2012/2013,8,4,484
+2,77839,2,02:42,-, Evžen Teringl, Jan Vrba,2012/2013,2,42,162
+3,77839,2,02:50,-, Evžen Teringl, Tomáš Kadlec,2012/2013,2,50,170
+4,77839,2,05:39,-, Jan Vrba, Jaroslav Šimek,2012/2013,5,39,339
+5,77839,2,07:44,-, Vladimír Drnec, Jan Vrba,2012/2013,7,44,464
+6,77839,3,10:28,-, Jan Vrba, Jaroslav Šimek,2012/2013,10,28,628
+0,79499,2,06:22,-, Jiří Dohnal, Václav Skála,2012/2013,6,22,382
+1,79499,3,05:06,-, Martin Švehla, Karel Trnobranský,2012/2013,5,6,306
+2,79499,3,09:54,PP, Václav Skála, Martin Švehla,2012/2013,9,54,594
+0,79497,2,02:20,-, Radim Špejra,,2012/2013,2,20,140
+0,80013,1,06:10,-, Daniel Lerch, Jakub Trmota,2012/2013,6,10,370
+1,80013,2,02:31,-, Martin Tomek, Daniel Lerch,2012/2013,2,31,151
+2,80013,2,05:10,-, Martin Tomek, Jakub Trmota,2012/2013,5,10,310
+3,80013,2,06:17,-, Jan Klesnil, Radek Hosnedl,2012/2013,6,17,377
+0,83399,1,03:34,-, Jakub Lukavský, Dušan Valo,2013/2014,3,34,214
+1,83399,1,04:29,-, Jiří Vašák,,2013/2014,4,29,269
+2,83399,2,09:54,-, Jiří Vašák, Dušan Valo,2013/2014,9,54,594
+3,83399,2,10:08,-, Dušan Valo, Antonín Spal,2013/2014,10,8,608
+4,83399,3,00:55,-, Jonáš Farář, Jakub Lukavský,2013/2014,0,55,55
+5,83399,3,02:18,-, Dušan Valo, Jiří Vašák,2013/2014,2,18,138
+6,83399,3,06:08,PS, Milan Kubík,,2013/2014,6,8,368
+0,83412,1,00:17,-, Jiří Břeh, Martin Oliva,2013/2014,0,17,17
+1,83412,3,03:57,-, Jiří Břeh, Martin Oliva,2013/2014,3,57,237
+2,83412,3,04:10,-, Lubomír Mrazík,,2013/2014,4,10,250
+3,83412,3,09:45,PS, Stanislav Heřman,,2013/2014,9,45,585
+0,84452,1,04:57,-, Jan Pilař, Jakub Milion,2013/2014,4,57,297
+1,84452,2,07:57,-, Ondřej Rabiňák, Jakub Milion,2013/2014,7,57,477
+2,84452,3,08:14,-, Milan Kouba, Jan Turek,2013/2014,8,14,494
+0,84460,1,02:00,-, Bořek Sláma, Jan Vítkovský,2013/2014,2,0,120
+1,84460,1,06:03,-, Josef Kardoš, Pavel Špirit,2013/2014,6,3,363
+2,84460,1,07:28,PP, Jiří Svoboda, Bořek Sláma,2013/2014,7,28,448
+0,87600,2,09:30,-, David Havlík, Marek Michálek,2013/2014,9,30,570
+1,87600,3,02:42,-, Jan Keresteš, Radek Sunkovský,2013/2014,2,42,162
+0,87604,1,06:39,-, Jakub Šedina,,2013/2014,6,39,399
+1,87604,2,10:39,-, Michal Tripes,,2013/2014,10,39,639
+2,87604,3,03:05,-, Michal Tripes, Jindřich Bareš,2013/2014,3,5,185
+3,87604,3,05:08,-, Michal Tripes, Jindřich Bareš,2013/2014,5,8,308
+4,87604,3,09:56,-, Jakub Šedina, Jindřich Bareš,2013/2014,9,56,596
+0,88227,3,05:05,-, Libor Vilímec, Michal Myšík,2013/2014,5,5,305
+1,88227,3,08:47,PP, Michal Kocour, Václav Kvita,2013/2014,8,47,527
+0,88234,1,10:29,PP, Daniel Škvor,,2013/2014,10,29,629
+1,88234,2,08:35,-, Štěpán Hanzl,,2013/2014,8,35,515
+0,91900,1,07:30,-, Tomáš Balcar, Filip Kraus,2013/2014,7,30,450
+1,91900,2,02:02,-, Martin Čermák,,2013/2014,2,2,122
+2,91900,2,07:56,-, Lukáš Bokr, Petr Umlauf,2013/2014,7,56,476
+0,91905,2,05:04,-, Jan Hrušovský,,2013/2014,5,4,304
+1,91905,2,06:36,-, Filip Podstavka, Petr Kubuš,2013/2014,6,36,396
+2,91905,3,01:49,-, Petr Kubuš, Jan Hrušovský,2013/2014,1,49,109
+0,95454,1,05:52,-, Ivan Darebný, Richard Černý,2013/2014,5,52,352
+1,95454,2,05:38,-, Richard Černý, Jan Rambousek,2013/2014,5,38,338
+2,95454,2,10:58,-, Richard Černý, Daniel Tuček,2013/2014,10,58,658
+3,95454,2,11:24,-, Jan Šimon, Daniel Masopust,2013/2014,11,24,684
+0,95459,2,04:19,-, Martin Chýle, Petr Chýle,2013/2014,4,19,259
+0,95507,1,05:06,-, Dušan Valo, Jiří Vašák,2013/2014,5,6,306
+1,95507,1,06:18,-, Dušan Valo, Peter Sopko,2013/2014,6,18,378
+2,95507,1,09:05,PP, Jiří Vašák, Jakub Lukavský,2013/2014,9,5,545
+3,95507,2,03:58,-, Dominik Kebrle, Martin Kameš,2013/2014,3,58,238
+4,95507,2,09:48,-, Dušan Valo, Martin Kameš,2013/2014,9,48,588
+5,95507,2,11:31,-, Martin Kameš, Jakub Lukavský,2013/2014,11,31,691
+6,95507,2,11:53,-, Martin Kameš, Vojtěch Plecitý,2013/2014,11,53,713
+7,95507,3,03:53,-, Jiří Vašák, Dušan Valo,2013/2014,3,53,233
+0,95526,1,02:58,-, Martin Kostřica, Štěpán Hanzl,2013/2014,2,58,178
+1,95526,1,05:59,-, Štěpán Hanzl, Martin Šáda,2013/2014,5,59,359
+2,95526,2,06:13,-, Štěpán Hanzl, Martin Denk,2013/2014,6,13,373
+3,95526,3,02:24,-, Matěj Lubenský, Jaroslav Janoušek,2013/2014,2,24,144
+4,95526,3,04:30,-, Pavel Dvořák,,2013/2014,4,30,270
+5,95526,3,09:13,-, Štěpán Hanzl, Martin Šáda,2013/2014,9,13,553
+6,95526,3,11:22,-, Matěj Lubenský, Jaroslav Janoušek,2013/2014,11,22,682
+0,98495,1,06:03,-, Daniel Masopust, David Šmatlák,2013/2014,6,3,363
+1,98495,2,05:17,-, Marek Stýblo, Daniel Masopust,2013/2014,5,17,317
+2,98495,3,01:02,-, Jan Šimon, Jan Kosina,2013/2014,1,2,62
+3,98495,3,05:16,-, Jakub Huml, Jan Kosina,2013/2014,5,16,316
+4,98495,3,09:56,-, Jan Kosina, Ondřej Svoboda,2013/2014,9,56,596
+0,101360,1,04:07,-, Štěpán Pavelka, Zdeněk Burian,2013/2014,4,7,247
+1,101360,3,03:23,OG, Jakub Mádr,,2013/2014,3,23,203
+2,101360,3,11:31,-, Václav Kvita, Štěpán Pavelka,2013/2014,11,31,691
+0,101363,1,01:55,-, Jan Komenda, Jan Mičko,2013/2014,1,55,115
+1,101363,1,05:34,-, Jan Mičko, Jan Vrba,2013/2014,5,34,334
+2,101363,2,08:41,-, Jan Komenda, Jan Mičko,2013/2014,8,41,521
+3,101363,2,09:15,-, Jan Komenda,,2013/2014,9,15,555
+4,101363,3,02:05,-, Jiří Svoboda, Jakub Ksandr,2013/2014,2,5,125
+5,101363,3,03:14,-, Jan Mičko, Jaroslav Rendla,2013/2014,3,14,194
+6,101363,3,04:02,-, Jakub Ksandr, Jiří Svoboda,2013/2014,4,2,242
+7,101363,3,09:52,-, Pavel Špirit, Jan Mičko,2013/2014,9,52,592
+0,102043,1,08:18,-, Petr Madzura,,2013/2014,8,18,498
+0,102037,3,04:24,-, Petr Chýle,,2013/2014,4,24,264
+0,106305,1,05:11,-, Matěj Richter, Zdeněk Konečný,2014/2015,5,11,311
+1,106305,1,09:03,-, Vítězslav Novák, Filip Dolejší,2014/2015,9,3,543
+2,106305,1,09:20,-, Filip Dolejší, Matěj Richter,2014/2015,9,20,560
+3,106305,1,10:06,-, Jiří Rafaj, Ladislav Jelen,2014/2015,10,6,606
+4,106305,2,11:14,-, Vítězslav Novák, David Kozlík,2014/2015,11,14,674
+0,107925,1,03:42,PP, Lukáš Brynda, Ondřej Hrdlička,2014/2015,3,42,222
+1,107925,1,10:20,-, Lukáš Brynda, Karel Libert,2014/2015,10,20,620
+2,107925,1,11:18,-, Michal Plzák, Ondřej Hrdlička,2014/2015,11,18,678
+3,107925,2,02:01,-, Marek Šmolík, Michal Plzák,2014/2015,2,1,121
+4,107925,2,07:08,-, Marek Šmolík, Michal Plzák,2014/2015,7,8,428
+5,107925,3,07:34,-, Jakub Řehoř, Jakub Krtička,2014/2015,7,34,454
+6,107925,3,09:41,-, Ondřej Jaroš, Marek Šmolík,2014/2015,9,41,581
+7,107925,3,09:53,-, Ondřej Hrdlička, Jakub Řehoř,2014/2015,9,53,593
+0,107938,1,05:00,-, Petr Káda,,2014/2015,5,0,300
+1,107938,2,02:57,-, Tomáš Kružík, Filip Šejvl,2014/2015,2,57,177
+0,109356,1,01:44,-, Jiří Polívka, Stanislav Prokop,2014/2015,1,44,104
+1,109356,2,01:54,-, Stanislav Prokop, Jaroslav Macík,2014/2015,1,54,114
+2,109356,3,00:21,-, Jaroslav Macík, Stanislav Prokop,2014/2015,0,21,21
+3,109356,3,08:56,-, Jiří Polívka, Stanislav Prokop,2014/2015,8,56,536
+0,109353,1,09:28,-, Jan Baloun, Pavel Steigerwald,2014/2015,9,28,568
+1,109353,2,11:57,PS, Bohuslav Novák,,2014/2015,11,57,717
+0,111025,1,00:30,-, Pavel Žďárský,,2014/2015,0,30,30
+1,111025,1,10:03,-, Richard Ťoupek, Jakub Polívka,2014/2015,10,3,603
+2,111025,2,03:59,PP, Filip Pacan, Pavel Žďárský,2014/2015,3,59,239
+3,111025,2,11:46,-, Filip Pacan, Pavel Žďárský,2014/2015,11,46,706
+4,111025,3,04:41,-, Jakub Květoň, Petr Žďárský,2014/2015,4,41,281
+5,111025,3,05:04,-, Pavel Žďárský, Jakub Květoň,2014/2015,5,4,304
+6,111025,3,09:08,-, David Roušal, Filip Pacan,2014/2015,9,8,548
+7,111025,3,10:37,-, Pavel Žďárský, Jakub Květoň,2014/2015,10,37,637
+0,111027,2,01:14,-, Pavel Kolář, Lukáš Putyra,2014/2015,1,14,74
+1,111027,3,01:04,-, Adam Líbal, Daniel Orolín,2014/2015,1,4,64
+2,111027,3,03:58,PP, Adam Líbal, Pavel Křiklan,2014/2015,3,58,238
+0,113887,1,03:05,-, Vítězslav Novák, Filip Dolejší,2014/2015,3,5,185
+1,113887,1,04:14,-, Jiří Rafaj, Ladislav Jelen,2014/2015,4,14,254
+2,113887,1,05:47,-, Jan Protiva, Zdeněk Konečný,2014/2015,5,47,347
+3,113887,1,06:40,-, Michal Štěpánek, Jiří Budil,2014/2015,6,40,400
+4,113887,2,10:10,-, Filip Dolejší, Zdeněk Konečný,2014/2015,10,10,610
+5,113887,2,10:48,-, Ladislav Jelen, Filip Dolejší,2014/2015,10,48,648
+6,113887,3,02:31,PP, Michal Štěpánek, Ladislav Jelen,2014/2015,2,31,151
+7,113887,3,06:10,-, Ladislav Jelen, Jiří Rafaj,2014/2015,6,10,370
+0,113892,2,00:22,-, Josef Němeček, Martin Hovořák,2014/2015,0,22,22
+1,113892,2,09:26,-, Jan Šíp, Josef Němeček,2014/2015,9,26,566
+2,113892,2,11:33,-, Michal Kymlička, Martin Hovořák,2014/2015,11,33,693
+0,115955,1,02:41,-, Roman Eder, Petr Novák,2014/2015,2,41,161
+1,115955,1,08:35,-, Matěj Soukup, Roman Eder,2014/2015,8,35,515
+2,115955,2,02:47,-, Pavel Steigerwald, Dung Nguyen Thanh,2014/2015,2,47,167
+3,115955,2,08:37,-, Roman Eder, Vladimír Jambor,2014/2015,8,37,517
+4,115955,3,00:37,-, Vladimír Jambor, Petr Novák,2014/2015,0,37,37
+0,116088,1,00:53,-, Jaroslav Macík, Stanislav Bořek,2014/2015,0,53,53
+1,116088,2,02:11,-, Filip Švojgr, Jakub Hříbal,2014/2015,2,11,131
+2,116088,2,08:39,-, Jiří Polívka, Stanislav Bořek,2014/2015,8,39,519
+3,116088,2,09:00,-, Robert Hahn, Tomáš Pichner,2014/2015,9,0,540
+4,116088,2,10:58,-, Jiří Polívka, Stanislav Prokop,2014/2015,10,58,658
+5,116088,3,00:27,-, Jaroslav Macík, Stanislav Prokop,2014/2015,0,27,27
+6,116088,3,08:21,-, Stanislav Prokop, Jaroslav Macík,2014/2015,8,21,501
+7,116088,3,09:01,-, Tomáš Pichner, Filip Švojgr,2014/2015,9,1,541
+8,116088,3,09:08,-, Jaroslav Macík, František Štiller,2014/2015,9,8,548
+9,116088,3,09:55,-, Jiří Polívka, Jaroslav Macík,2014/2015,9,55,595
+0,119728,1,11:00,-, Josef Němeček, Vilém Svoboda,2014/2015,11,0,660
+1,119728,2,04:59,-, Jan Šíp, Vilém Svoboda,2014/2015,4,59,299
+0,119733,1,10:20,-, Jan Vítek, Matěj Turek,2014/2015,10,20,620
+0,120429,1,04:07,-, Jakub Šach, Martin Tučný,2014/2015,4,7,247
+1,120429,1,04:52,-, Jakub Květoň, Filip Pacan,2014/2015,4,52,292
+2,120429,2,05:55,-, Jakub Květoň, David Roušal,2014/2015,5,55,355
+3,120429,2,06:19,-, Petr Žďárský, Filip Pacan,2014/2015,6,19,379
+4,120429,2,10:44,-, Filip Pacan, Jakub Květoň,2014/2015,10,44,644
+5,120429,3,08:44,-, Filip Pacan, David Roušal,2014/2015,8,44,524
+6,120429,3,11:30,-, Filip Pacan, Jakub Květoň,2014/2015,11,30,690
+0,120431,1,04:44,-, Radek Mencl, Aleš Zahálka,2014/2015,4,44,284
+1,120431,1,06:55,SH, Miloslav Zapletal,,2014/2015,6,55,415
+2,120431,2,03:40,-, Miloslav Zapletal,,2014/2015,3,40,220
+3,120431,2,07:04,-, Josef Kurka, Miloslav Zapletal,2014/2015,7,4,424
+4,120431,2,08:12,-, Miloslav Zapletal,,2014/2015,8,12,492
+5,120431,3,10:57,PP, Josef Kurka, Lukáš Lhotský,2014/2015,10,57,657
+6,120431,3,11:16,-, Josef Kurka, Aleš Zahálka,2014/2015,11,16,676
+0,125857,1,00:30,-, Daniel Orolín, Adam Líbal,2014/2015,0,30,30
+1,125857,2,00:29,-, Daniel Orolín, Adam Líbal,2014/2015,0,29,29
+2,125857,2,02:23,-, Jakub Císař, Daniel Orolín,2014/2015,2,23,143
+3,125857,2,02:56,PP, Vladimír Havlíček, Daniel Orolín,2014/2015,2,56,176
+4,125857,2,06:24,-, Daniel Orolín, Adam Líbal,2014/2015,6,24,384
+5,125857,2,06:56,-, Lukáš Putyra, Vladimír Havlíček,2014/2015,6,56,416
+6,125857,3,05:12,-, Jakub Císař, Adam Líbal,2014/2015,5,12,312
+7,125857,3,06:50,PP, Daniel Orolín, Josef Spurný,2014/2015,6,50,410
+0,125859,1,00:42,-, Marek Šmolík, Ondřej Jaroš,2014/2015,0,42,42
+1,125859,1,10:00,-, Marek Šmolík, Ondřej Jaroš,2014/2015,10,0,600
+2,125859,2,02:03,PP, Ondřej Jaroš, Lukáš Brynda,2014/2015,2,3,123
+3,125859,2,04:14,-, Ondřej Jaroš, Jonáš Křepelka,2014/2015,4,14,254
+4,125859,2,04:58,-, Ondřej Jaroš, Jonáš Křepelka,2014/2015,4,58,298
+5,125859,3,07:31,PS, Ondřej Hrdlička,,2014/2015,7,31,451
+6,125859,3,08:29,-, Ondřej Jaroš, Jonáš Křepelka,2014/2015,8,29,509
+7,125859,3,10:25,-, Ondřej Jaroš, Marek Šmolík,2014/2015,10,25,625
+8,125859,3,10:47,-, Marek Šmolík, Ondřej Jaroš,2014/2015,10,47,647
+9,125859,3,11:40,-, Ondřej Hrdlička, Michal Plzák,2014/2015,11,40,700
+0,127351,3,09:27,-, Miroslav Šteffl, Radek Mencl,2014/2015,9,27,567
+0,127354,1,09:41,-, Milan Černil, Matěj Turek,2014/2015,9,41,581
+1,127354,2,03:01,PP, Jakub Rok, Matěj Turek,2014/2015,3,1,181
+2,127354,3,09:42,-, Jan Sobotka, Jan Krejčí,2014/2015,9,42,582
+3,127354,3,10:52,-, Michal Vališ, Jakub Rok,2014/2015,10,52,652
+0,130050,1,01:10,-, Jan Šotola, Patrik Čeliš,2015/2016,1,10,70
+0,130052,1,07:17,-, Pavel Knol, Michal Filippi,2015/2016,7,17,437
+1,130052,1,08:28,-, Michal Trnavský, Jiří Šutta,2015/2016,8,28,508
+2,130052,3,03:45,-, Richard Lučan, Michal Trnavský,2015/2016,3,45,225
+3,130052,3,05:13,-, Vojtěch Bludský, Michal Filippi,2015/2016,5,13,313
+4,130052,3,05:44,-, Pavel Knol, Vojtěch Bludský,2015/2016,5,44,344
+0,132892,1,06:27,-, Jiří Schwarz, Jakub Jedlička,2015/2016,6,27,387
+1,132892,1,11:48,-, Jiří Schwarz, Jakub Jedlička,2015/2016,11,48,708
+2,132892,2,03:04,-, Pavel Netolický, Petr Baťa,2015/2016,3,4,184
+3,132892,2,09:27,-, Jiří Schwarz,,2015/2016,9,27,567
+4,132892,3,10:33,PP, Pavel Janeček, Jan Dušek,2015/2016,10,33,633
+0,132901,1,10:42,-, Jakub Marčiny, Jan Čížek,2015/2016,10,42,642
+0,134348,1,00:18,-, Svatopluk Hybš,,2015/2016,0,18,18
+1,134348,1,00:26,-, Adam Hlaváček, Martin Janský,2015/2016,0,26,26
+2,134348,2,00:47,-, Svatopluk Hybš, Vladimír Štván,2015/2016,0,47,47
+3,134348,2,06:26,-, Svatopluk Hybš, Ondřej Kraus,2015/2016,6,26,386
+4,134348,2,09:20,-, Svatopluk Hybš, Vladimír Štván,2015/2016,9,20,560
+5,134348,2,10:29,-, Ondřej Kraus, Martin Janský,2015/2016,10,29,629
+6,134348,3,01:29,-, Vladimír Štván, Svatopluk Hybš,2015/2016,1,29,89
+7,134348,3,02:09,-, Martin Janský, Vladimír Štván,2015/2016,2,9,129
+8,134348,3,08:29,-, Svatopluk Hybš, Ondřej Kraus,2015/2016,8,29,509
+0,134351,1,05:42,-, Jan Čížek, Adam Líbal,2015/2016,5,42,342
+1,134351,1,09:04,-, Tomáš Solar, Jan Čížek,2015/2016,9,4,544
+2,134351,3,00:22,-, Josef Spurný,,2015/2016,0,22,22
+3,134351,3,04:56,-, Adam Líbal, Jakub Císař,2015/2016,4,56,296
+0,137002,1,05:36,-, Vladimír Červinka, František Jantač,2015/2016,5,36,336
+0,137005,1,02:27,PS, Boleslav Kytka,,2015/2016,2,27,147
+1,137005,1,06:13,-, Boleslav Kytka, Filip Horák,2015/2016,6,13,373
+2,137005,2,04:10,-, Michal Zitko, Martin Wolf,2015/2016,4,10,250
+3,137005,2,09:14,-, Ondřej Kadaník, Adam Kešeľák,2015/2016,9,14,554
+4,137005,3,06:03,-, Ondřej Kadaník, Adam Kešeľák,2015/2016,6,3,363
+0,144401,1,04:08,-, Svatopluk Hybš, Ondřej Kraus,2015/2016,4,8,248
+1,144401,1,05:27,PP, Ondřej Kraus, Svatopluk Hybš,2015/2016,5,27,327
+2,144401,1,11:50,-, Svatopluk Hybš, Ondřej Kraus,2015/2016,11,50,710
+3,144401,2,00:46,-, Ondřej Kraus, Martin Janský,2015/2016,0,46,46
+4,144401,2,06:27,-, Ondřej Kraus, Jiří Kolář,2015/2016,6,27,387
+5,144401,2,08:11,-, Martin Janský, Jiří Kolář,2015/2016,8,11,491
+6,144401,2,08:34,-, Vladimír Štván, Ondřej Kraus,2015/2016,8,34,514
+7,144401,2,10:43,-, Svatopluk Hybš, Ondřej Kraus,2015/2016,10,43,643
+8,144401,2,11:18,-, Svatopluk Hybš, Vladimír Štván,2015/2016,11,18,678
+9,144401,3,02:29,-, Martin Janský, Svatopluk Hybš,2015/2016,2,29,149
+10,144401,3,03:34,SH, Ondřej Kraus, Svatopluk Hybš,2015/2016,3,34,214
+11,144401,3,05:24,-, Vladimír Štván, Martin Janský,2015/2016,5,24,324
+12,144401,3,07:07,PP, Ondřej Kraus, Svatopluk Hybš,2015/2016,7,7,427
+13,144401,3,07:44,-, Ondřej Kraus, Martin Janský,2015/2016,7,44,464
+14,144401,3,07:55,-, Svatopluk Hybš, Ondřej Kraus,2015/2016,7,55,475
+15,144401,3,08:19,-, Svatopluk Hybš, Ondřej Kraus,2015/2016,8,19,499
+16,144401,3,09:23,-, Martin Janský, Ondřej Kraus,2015/2016,9,23,563
+17,144401,3,11:10,-, Martin Janský, Svatopluk Hybš,2015/2016,11,10,670
+0,144406,1,09:30,-, Vojtěch Bludský, Pavel Knol,2015/2016,9,30,570
+1,144406,1,11:26,-, Pavel Knol, Zdeněk Sadílek,2015/2016,11,26,686
+2,144406,3,06:41,-, Michal Trnavský,,2015/2016,6,41,401
+0,145415,1,04:23,-, Miroslav Zrno, Miloš Vojtíšek,2015/2016,4,23,263
+1,145415,1,06:11,-, Marcel Cikánek, Patrik Houštecký,2015/2016,6,11,371
+2,145415,2,03:21,-, David Lukáš, Miloš Vojtíšek,2015/2016,3,21,201
+3,145415,2,05:44,-, David Lukáš, Zbyněk Chmúra,2015/2016,5,44,344
+4,145415,3,00:13,-, Patrik Mareš, Michal Koukl,2015/2016,0,13,13
+5,145415,3,08:34,-, David Lukáš, Marcel Cikánek,2015/2016,8,34,514
+6,145415,3,08:57,-, Michal Koukl, Patrik Mareš,2015/2016,8,57,537
+0,145420,1,06:45,-, Daniel Koleška, Zdeňek Chlupáč,2015/2016,6,45,405
+1,145420,1,11:19,-, Jakub Dvořák, Ondřej Novotný,2015/2016,11,19,679
+2,145420,2,01:17,-, Martin Jirka,,2015/2016,1,17,77
+3,145420,2,11:42,-, Jakub Dvořák, Vilém Kubáč,2015/2016,11,42,702
+4,145420,3,04:56,-, Jakub Dvořák, Miroslav Korous,2015/2016,4,56,296
+5,145420,3,07:53,-, Jakub Dvořák, Zdeňek Chlupáč,2015/2016,7,53,473
+6,145420,3,08:38,-, Zdeněk Podzemný, Ondřej Šašek,2015/2016,8,38,518
+7,145420,3,09:53,-, Zdeňek Chlupáč, Daniel Koleška,2015/2016,9,53,593
+8,145420,3,10:26,-, Miroslav Korous, Ondřej Novotný,2015/2016,10,26,626
+9,145420,3,11:13,-, David Wurst, Martin Jirka,2015/2016,11,13,673
+10,145420,3,11:29,-, Zdeněk Podzemný, Miroslav Korous,2015/2016,11,29,689
+0,150361,1,00:55,-, Jan Kareš, Martin Blahník,2015/2016,0,55,55
+1,150361,1,06:13,PP, Jan Dojčiak, Jan Mašín,2015/2016,6,13,373
+2,150361,1,08:33,-, Martin Blahník, Pavel Janeček,2015/2016,8,33,513
+3,150361,2,09:24,-, Jan Kareš, Martin Blahník,2015/2016,9,24,564
+4,150361,3,07:16,-, Štěpán Bochníček, Jan Kareš,2015/2016,7,16,436
+5,150361,3,09:37,-, Marek Reithar, Michal Hruška,2015/2016,9,37,577
+6,150361,3,10:09,-, Jan Kareš, Martin Blahník,2015/2016,10,9,609
+7,150361,3,11:59,-, Jan Mašín, Marek Reithar,2015/2016,11,59,719
+0,150367,1,01:40,-, Jakub Dvořák, Ondřej Novotný,2015/2016,1,40,100
+1,150367,1,09:30,-, Martin Kulma, Zdeněk Podzemný,2015/2016,9,30,570
+2,150367,1,10:04,-, Vilém Kubáč, Miroslav Korous,2015/2016,10,4,604
+3,150367,2,01:27,-, Vilém Kubáč, Jakub Dvořák,2015/2016,1,27,87
+4,150367,2,10:36,-, Ondřej Novotný, Martin Kulma,2015/2016,10,36,636
+5,150367,3,06:42,-, Vilém Kubáč, Jakub Dvořák,2015/2016,6,42,402
+6,150367,3,08:45,-, Zdeňek Chlupáč,,2015/2016,8,45,525
+0,151930,1,05:19,-, Tomáš Bárta, Adam Kešeľák,2015/2016,5,19,319
+1,151930,1,07:43,-, Jakub Pecha, Gustav Ondrejčík,2015/2016,7,43,463
+2,151930,1,10:32,-, Petr Blažej, Jakub Pecha,2015/2016,10,32,632
+3,151930,2,05:26,-, Jakub Pecha, Aleš Stavjaňa,2015/2016,5,26,326
+4,151930,2,06:42,-, Adam Kešeľák, Jakub Vrzák,2015/2016,6,42,402
+0,151965,1,10:31,-, Daniel Dupkala, Michal Řehák,2015/2016,10,31,631
+1,151965,3,05:32,-, Adam Chuděj, Filip Slavík,2015/2016,5,32,332
+0,154870,1,11:53,-, Jan Čížek, Adam Líbal,2015/2016,11,53,713
+1,154870,2,02:06,-, Jan Čížek, Adam Líbal,2015/2016,2,6,126
+2,154870,2,02:48,-, Petr Votava, Lukáš Putyra,2015/2016,2,48,168
+3,154870,2,06:27,-, Jakub Císař, Vladimír Havlíček,2015/2016,6,27,387
+4,154870,2,09:59,-, Jakub Císař, Adam Líbal,2015/2016,9,59,599
+5,154870,3,11:26,EN, Jan Čížek,,2015/2016,11,26,686
+0,154873,1,09:26,PP, Michal Koukl, Tomáš Pícha,2015/2016,9,26,566
+1,154873,1,10:07,-, Patrik Houštecký, Miroslav Zrno,2015/2016,10,7,607
+2,154873,1,11:02,-, Tomáš Pícha, Michal Koukl,2015/2016,11,2,662
+3,154873,2,07:46,PP, Martin Strnad, Martin Jaeger,2015/2016,7,46,466
+4,154873,3,07:22,PP, Luboš Příkop, Tomáš Pícha,2015/2016,7,22,442
+0,158141,2,07:40,-, Michal Čermák, Tomáš Dlouhý,2016/2017,7,40,460
+1,158141,2,08:13,-, Petr Hejda, Lukáš Pichner,2016/2017,8,13,493
+2,158141,2,10:32,-, Lukáš Müller, Lukáš Pichner,2016/2017,10,32,632
+0,158158,1,05:11,-, Jiří Müller, Jiří Novák,2016/2017,5,11,311
+1,158158,2,00:56,-, David Musil, Michal Zeman,2016/2017,0,56,56
+2,158158,2,02:31,-, Daniel Kvěch, David Musil,2016/2017,2,31,151
+3,158158,2,11:37,-, Daniel Kvěch, David Musil,2016/2017,11,37,697
+4,158158,2,11:59,PS, David Musil,,2016/2017,11,59,719
+0,160699,1,10:48,-, David Laho, Jiří Houžvička,2016/2017,10,48,648
+0,160702,1,08:29,-, Oldřich Pilecký, Petr Ježek,2016/2017,8,29,509
+1,160702,3,07:47,-, Miroslav Šíp, Jakub Vrzák,2016/2017,7,47,467
+0,165178,1,10:58,-, Jakub Klement, Martin Bukovič,2016/2017,10,58,658
+1,165178,3,07:55,-, Ondřej Zeman, Josef Kopecký,2016/2017,7,55,475
+0,165181,1,09:39,-, Pavel Hušák, Michal Šmíd,2016/2017,9,39,579
+0,167705,1,04:10,-, Luboš Berka, Martin Balák,2016/2017,4,10,250
+1,167705,1,10:40,-, Richard Filikar, Kryštof Kocot,2016/2017,10,40,640
+2,167705,2,02:14,-, Jakub Havlík, Richard Filikar,2016/2017,2,14,134
+3,167705,3,10:47,EN, Dominik Korolus, Petr Benedikt,2016/2017,10,47,647
+0,167707,1,02:02,-, Jindřich Hašek, Antonín Krudenc,2016/2017,2,2,122
+1,167707,1,03:53,-, Jindřich Hašek, Antonín Krudenc,2016/2017,3,53,233
+2,167707,2,02:11,-, David Ranš, Michael Tichý,2016/2017,2,11,131
+3,167707,2,03:51,-, Antonín Krudenc, Jindřich Hašek,2016/2017,3,51,231
+4,167707,2,05:00,-, Jakub Sládek, David Ranš,2016/2017,5,0,300
+5,167707,2,09:11,PP, Jindřich Hašek, Tomáš Pažout,2016/2017,9,11,551
+6,167707,2,09:53,PP, Antonín Krudenc, Jan Flaška,2016/2017,9,53,593
+7,167707,2,10:59,PP, Jakub Sládek, David Ranš,2016/2017,10,59,659
+0,170887,1,02:34,-, Jan Paulovič, Pavel Kohout,2016/2017,2,34,154
+1,170887,2,05:38,-, Michal Kuruc, Jan Prušák,2016/2017,5,38,338
+2,170887,3,00:54,-, Petr Kohout, Pavel Kohout,2016/2017,0,54,54
+3,170887,3,02:13,-, David Haring, Jan Prušák,2016/2017,2,13,133
+4,170887,3,04:03,-, David Haring, Michal Kuruc,2016/2017,4,3,243
+5,170887,3,07:36,-, Pavel Kohout, Petr Kohout,2016/2017,7,36,456
+0,170890,1,04:13,-, Kryštof Hoch, Ondřej Zeman,2016/2017,4,13,253
+1,170890,1,08:00,-, Jakub Hruška, Ondřej Zeman,2016/2017,8,0,480
+2,170890,2,02:10,-, Jakub Hruška, Ondřej Zeman,2016/2017,2,10,130
+3,170890,3,11:37,PP, Vojtěch Brávek, Filip Terč,2016/2017,11,37,697
+0,173014,1,02:53,-, Jakub Malý, Oldřich Pilecký,2016/2017,2,53,173
+1,173014,1,09:36,-, Petr Vavřík, Jakub Vrzák,2016/2017,9,36,576
+2,173014,2,06:00,-, Miroslav Šíp, Jakub Vrzák,2016/2017,6,0,360
+3,173014,2,08:03,-, Miroslav Šíp, Jakub Vrzák,2016/2017,8,3,483
+4,173014,2,11:15,-, Oldřich Pilecký, Lukáš Frydrych,2016/2017,11,15,675
+5,173014,3,06:02,SH, Oldřich Pilecký,,2016/2017,6,2,362
+0,173022,1,08:17,-, Vojtěch Svoboda, Jiří Müller,2016/2017,8,17,497
+1,173022,1,09:02,-, Jiří Novák, Václav Böhm,2016/2017,9,2,542
+2,173022,2,01:31,-, Jiří Müller, Vojtěch Svoboda,2016/2017,1,31,91
+3,173022,2,04:47,-, Jiří Müller, Vojtěch Svoboda,2016/2017,4,47,287
+4,173022,3,09:51,-, Jiří Novák, Vojtěch Svoboda,2016/2017,9,51,591
+0,177660,1,10:59,-, Tomáš Pauček, David Volek,2016/2017,10,59,659
+1,177660,2,04:52,-, David Volek, Tomáš Pauček,2016/2017,4,52,292
+2,177660,2,08:42,PP, Dominik Korolus, Daniel Bendík,2016/2017,8,42,522
+3,177660,3,01:39,-, Tomáš Valenta, Tomáš Pauček,2016/2017,1,39,99
+4,177660,3,06:10,PP, Michael Rudolf, Ondřej Bendík,2016/2017,6,10,370
+0,177076,1,02:47,-, Bořek Sláma, Martin Olšiak,2016/2017,2,47,167
+1,177076,1,04:25,-, Jakub Smíšek, Jiří Svoboda,2016/2017,4,25,265
+2,177076,1,07:17,-, Jiří Svoboda, Bořek Sláma,2016/2017,7,17,437
+3,177076,2,01:33,-, Radim Onderka, Bořek Sláma,2016/2017,1,33,93
+4,177076,2,02:04,-, Bořek Sláma, Radim Onderka,2016/2017,2,4,124
+5,177076,2,07:45,-, Radim Onderka, Bořek Sláma,2016/2017,7,45,465
+6,177076,2,11:18,-, Radim Onderka, Bořek Sláma,2016/2017,11,18,678
+7,177076,3,06:14,-, Radim Onderka, Filip Machala,2016/2017,6,14,374
+8,177076,3,08:54,PP, Jiří Svoboda, Jan Mičko,2016/2017,8,54,534
+0,178883,1,01:55,-, Jiří Hloušek, Tomáš Hušák,2016/2017,1,55,115
+1,178883,1,04:40,-, Pavel Hušák, Jan Marek,2016/2017,4,40,280
+2,178883,3,01:55,-, Jiří Bareš, Michal Šmíd,2016/2017,1,55,115
+3,178883,3,05:03,-, Jan Marek,,2016/2017,5,3,303
+0,178896,2,10:23,-, Jakub Sládek, Michael Tichý,2016/2017,10,23,623
+1,178896,2,11:53,PP, David Ranš, Antonín Krudenc,2016/2017,11,53,713
+2,178896,3,11:10,PP, Antonín Krudenc, Vítězslav Prágr,2016/2017,11,10,670
+0,181137,3,06:42,-, Michal Čermák,,2016/2017,6,42,402
+0,181141,3,04:04,PP, Jan Paulovič, Jan Prušák,2016/2017,4,4,244
+0,184420,1,02:08,-, Radim Onderka,,2016/2017,2,8,128
+1,184420,1,04:44,-, Jiří Svoboda, Bořek Sláma,2016/2017,4,44,284
+2,184420,1,11:57,-, Radim Onderka, Bořek Sláma,2016/2017,11,57,717
+3,184420,2,02:03,SH, Bořek Sláma, Radim Onderka,2016/2017,2,3,123
+4,184420,2,06:31,-, Radim Onderka, Bořek Sláma,2016/2017,6,31,391
+5,184420,3,01:28,-, Jakub Smíšek, Michal Petrbok,2016/2017,1,28,88
+6,184420,3,11:54,EN, Bořek Sláma,,2016/2017,11,54,714
+0,184422,1,03:50,-, Karel Němec, Tomáš Kupec,2016/2017,3,50,230
+0,188166,1,09:48,PS, Lubomír Nebuška,,2017/2018,9,48,588
+1,188166,1,10:16,SH, Jan Vočko, Filip Rubeš,2017/2018,10,16,616
+2,188166,3,05:41,-, Lubomír Nebuška, Filip Rubeš,2017/2018,5,41,341
+0,188172,2,02:32,-, Marek Vesecký, Jan Mikolášek,2017/2018,2,32,152
+1,188172,2,09:35,-, Tomáš Dlouhý,,2017/2018,9,35,575
+2,188172,2,11:22,-, Petr Hejda, Václav Müller,2017/2018,11,22,682
+3,188172,3,10:34,PP, Jan Mikolášek, Petr Hejda,2017/2018,10,34,634
+0,189796,1,00:44,-, David Schneider, Jakub Šíma,2017/2018,0,44,44
+1,189796,1,04:19,-, Jiří Šimon, Marek Zoufalý,2017/2018,4,19,259
+2,189796,1,05:50,-, Jakub Šíma, Jaroslav Chalupný,2017/2018,5,50,350
+3,189796,1,09:54,-, Jan Mičko,,2017/2018,9,54,594
+4,189796,2,02:22,-, Jakub Šíma, Jaroslav Chalupný,2017/2018,2,22,142
+5,189796,2,03:51,-, Jakub Šíma, Jaroslav Chalupný,2017/2018,3,51,231
+6,189796,2,09:48,-, Jakub Šíma, David Schneider,2017/2018,9,48,588
+7,189796,2,11:12,-, David Schneider, Jakub Šíma,2017/2018,11,12,672
+8,189796,3,11:53,PP, David Schneider, Jakub Šíma,2017/2018,11,53,713
+0,189799,1,11:51,PS, Jakub Koláček,,2017/2018,11,51,711
+1,189799,2,02:27,-, Jaromír Správka, Lukáš Pyskatý,2017/2018,2,27,147
+2,189799,2,07:12,-, Jakub Koláček, Petr Čech,2017/2018,7,12,432
+3,189799,2,10:22,-, Jakub Koláček, Václav Vlk,2017/2018,10,22,622
+4,189799,3,00:46,-, Jakub Kochánek, Václav Vlk,2017/2018,0,46,46
+5,189799,3,02:47,-, Jakub Koláček, Václav Vlk,2017/2018,2,47,167
+6,189799,3,03:58,-, Petr Čech, Václav Vlk,2017/2018,3,58,238
+7,189799,3,06:12,-, Jakub Koláček, Petr Čech,2017/2018,6,12,372
+8,189799,3,07:25,-, Lukáš Pyskatý, Zdeněk Tomek,2017/2018,7,25,445
+0,190317,1,03:41,-, Petr Šavrda, Petr Dvořák,2017/2018,3,41,221
+1,190317,1,10:58,-, Jiří Kotáb, Ondřej Krampera,2017/2018,10,58,658
+2,190317,2,01:55,PP, Josef Kurka, Aleš Zahálka,2017/2018,1,55,115
+3,190317,2,03:43,-, Martin Šustr, Ondřej Krampera,2017/2018,3,43,223
+4,190317,3,02:10,-, Josef Kurka,,2017/2018,2,10,130
+5,190317,3,02:58,-, Petr Šavrda, Jiří Kotáb,2017/2018,2,58,178
+6,190317,3,06:11,-, Josef Kurka, Martin Šustr,2017/2018,6,11,371
+7,190317,3,11:44,-, Petr Šavrda, Lukáš Lhotský,2017/2018,11,44,704
+0,190321,1,10:34,-, Martin Tučný, Martin Pitor,2017/2018,10,34,634
+1,190321,2,02:22,-, Zdeněk Halamásek, Martin Tučný,2017/2018,2,22,142
+2,190321,2,06:11,-, Petr Diviš, Martin Tučný,2017/2018,6,11,371
+3,190321,3,00:15,-, Martin Tučný,,2017/2018,0,15,15
+4,190321,3,02:25,-, Petr Diviš, Martin Tučný,2017/2018,2,25,145
+0,196450,2,07:45,-, Karel Gottwald, Jiří Jiráček,2017/2018,7,45,465
+0,196944,1,04:18,-, Ondřej Míka, Lukáš Mendlík,2017/2018,4,18,258
+1,196944,1,10:05,-, Tomáš Čermák, Jakub Kolanda,2017/2018,10,5,605
+2,196944,2,06:51,-, Zdeněk Hromota, Jindřich Hanousek,2017/2018,6,51,411
+3,196944,2,07:34,-, Jindřich Hanousek, Ondřej Míka,2017/2018,7,34,454
+4,196944,3,11:22,-, Lukáš Mendlík, Jakub Kolanda,2017/2018,11,22,682
+0,198727,1,03:30,-, Zdeněk Podzemný, Filip Boubelík,2017/2018,3,30,210
+1,198727,2,00:45,-, František Slovák, David Wurst,2017/2018,0,45,45
+2,198727,2,11:16,PP, Zdeňek Chlupáč, František Slovák,2017/2018,11,16,676
+0,202148,3,01:26,-, Martin Tomek, Daniel Kvěch,2017/2018,1,26,86
+1,202148,3,08:34,-, Lukáš Jiran, Vladimír Bradáč,2017/2018,8,34,514
+0,202161,3,02:31,-, František Platovský, Vladimír Brůžek,2017/2018,2,31,151
+1,202161,3,10:15,-, Jakub Salkini, Vladimír Brůžek,2017/2018,10,15,615
+0,207535,1,00:26,-, Martin Houdek, Martin Rejmiš,2017/2018,0,26,26
+1,207535,1,01:31,-, Aleš Rafaj, Martin Houdek,2017/2018,1,31,91
+2,207535,2,06:33,-, Lukáš Burian,,2017/2018,6,33,393
+3,207535,2,06:53,-, Martin Houdek, Martin Rejmiš,2017/2018,6,53,413
+4,207535,2,09:33,-, Aleš Rafaj, Martin Houdek,2017/2018,9,33,573
+5,207535,3,00:32,-, Aleš Rafaj,,2017/2018,0,32,32
+6,207535,3,05:21,PP, Pavel Švarc, Jan Klozar,2017/2018,5,21,321
+7,207535,3,05:53,-, Jan Klozar, Jiří Bábek,2017/2018,5,53,353
+0,207533,1,04:22,-, Štěpán Janžura, Jiří Polívka,2017/2018,4,22,262
+1,207533,3,00:52,-, Jakub Hříbal, Marek Vesecký,2017/2018,0,52,52
+2,207533,3,09:17,-, Štěpán Janžura, Marek Vesecký,2017/2018,9,17,557
+3,207533,3,11:57,EN, Jan Mikolášek,,2017/2018,11,57,717
+0,213224,1,05:42,-, Jakub Lacina, Tomáš Pospíchal,2017/2018,5,42,342
+1,213224,2,03:08,-, Jakub Lacina, Tomáš Kadlec,2017/2018,3,8,188
+2,213224,2,05:59,-, Jan Mikšík, Jakub Lacina,2017/2018,5,59,359
+3,213224,3,05:26,-, David Wurst, Tomáš Kadlec,2017/2018,5,26,326
+0,213222,1,00:27,-, Jiří Šimon, Jakub Šíma,2017/2018,0,27,27
+1,213222,1,02:46,-, Jakub Šíma, David Schneider,2017/2018,2,46,166
+2,213222,1,07:12,-, Jaroslav Chalupný, Jakub Šíma,2017/2018,7,12,432
+3,213222,2,05:06,-, Jakub Šíma, Jaroslav Chalupný,2017/2018,5,6,306
+4,213222,2,07:00,SH, Michal Kárník, Jiří Neradil,2017/2018,7,0,420
+5,213222,3,01:00,-, Jiří Šimon, Martin Rada,2017/2018,1,0,60
+6,213222,3,11:41,-, Jakub Šíma, David Schneider,2017/2018,11,41,701
+0,215894,3,02:44,-, Jan Klozar, Roman Stachoň,2017/2018,2,44,164
+0,215892,1,08:47,-, Daniel Kvěch, David Musil,2017/2018,8,47,527
+0,217370,1,03:21,-, Lukáš Správka, Lukáš Pyskatý,2017/2018,3,21,201
+1,217370,1,04:43,-, Ondřej Fišer, Jakub Koláček,2017/2018,4,43,283
+2,217370,1,09:18,PP, Ondřej Fišer, Lukáš Správka,2017/2018,9,18,558
+3,217370,1,09:23,PS, Ondřej Fišer,,2017/2018,9,23,563
+4,217370,2,01:28,-, Václav Vlk, Jakub Koláček,2017/2018,1,28,88
+5,217370,2,01:35,-, Václav Vlk, Jakub Koláček,2017/2018,1,35,95
+6,217370,2,02:52,SH, Václav Vích, Lukáš Pyskatý,2017/2018,2,52,172
+7,217370,2,03:22,SH, Jakub Koláček, Jakub Kochánek,2017/2018,3,22,202
+8,217370,2,03:40,SH, Václav Vlk, Jakub Koláček,2017/2018,3,40,220
+9,217370,2,07:20,-, Václav Vích, Ondřej Fišer,2017/2018,7,20,440
+10,217370,2,08:16,-, Jakub Koláček, Jakub Kochánek,2017/2018,8,16,496
+11,217370,2,09:42,-, Jakub Koláček, Ondřej Fišer,2017/2018,9,42,582
+12,217370,3,04:01,-, Lukáš Pyskatý, Lukáš Správka,2017/2018,4,1,241
+13,217370,3,04:06,-, Ondřej Fišer, Jakub Koláček,2017/2018,4,6,246
+14,217370,3,04:12,-, Václav Vlk, Vít Němeček,2017/2018,4,12,252
+15,217370,3,04:34,-, Zdeněk Tomek, Jakub Koláček,2017/2018,4,34,274
+16,217370,3,06:41,-, Jakub Koláček, Vít Němeček,2017/2018,6,41,401
+17,217370,3,09:52,-, Václav Vích, Lukáš Pyskatý,2017/2018,9,52,592
+0,217372,1,03:12,-, Ondřej Míka, Jakub Kolanda,2017/2018,3,12,192
+1,217372,1,06:43,-, Martin Jonák, Zdeněk Hromota,2017/2018,6,43,403
+2,217372,2,05:04,-, Jindřich Hanousek, Jakub Kolanda,2017/2018,5,4,304
+3,217372,2,07:38,-, Jindřich Hanousek, Lukáš Mendlík,2017/2018,7,38,458
+4,217372,3,00:38,-, Martin Koblasa, Zdeněk Hromota,2017/2018,0,38,38
+5,217372,3,05:51,-, Martin Koblasa, Jindřich Hanousek,2017/2018,5,51,351
+6,217372,3,07:45,-, Martin Koblasa, Jindřich Hanousek,2017/2018,7,45,465
+7,217372,3,08:30,-, Jindřich Hanousek, Zdeněk Hromota,2017/2018,8,30,510
+8,217372,3,11:29,-, Martin Koblasa, Jindřich Hanousek,2017/2018,11,29,689
+0,222022,1,09:23,-, Filip Kolařík, Jan Miler,2018/2019,9,23,563
+1,222022,3,02:39,PP, Robin Franče, Tomáš Kaňka,2018/2019,2,39,159
+2,222022,3,11:43,-, Daniel Kadlec, Filip Kolařík,2018/2019,11,43,703
+0,222084,1,03:09,-, Michal Staníček, Jan Rotta,2018/2019,3,9,189
+1,222084,1,07:07,PP, Martin Rotta, Michal Staníček,2018/2019,7,7,427
+2,222084,1,09:39,-, Jan Egem, Jan Rotta,2018/2019,9,39,579
+3,222084,2,05:24,-, Michal Staníček, Jan Rotta,2018/2019,5,24,324
+4,222084,2,06:32,-, Roman Hergl, Radovan Doležel,2018/2019,6,32,392
+0,225350,1,06:48,PP, Albert Čihák, Petr Rosička,2018/2019,6,48,408
+1,225350,1,06:55,-, Lukáš Mendlík, Jakub Kolanda,2018/2019,6,55,415
+2,225350,3,03:34,-, Jakub Kolanda, Lukáš Mendlík,2018/2019,3,34,214
+3,225350,3,03:52,-, Albert Čihák, Tomáš Čermák,2018/2019,3,52,232
+0,225349,2,11:17,-, David Wurst, Tomáš Kadlec,2018/2019,11,17,677
+0,229025,1,02:56,-, Bořek Sláma, Radim Onderka,2018/2019,2,56,176
+1,229025,2,07:24,SH, Bořek Sláma, Radim Onderka,2018/2019,7,24,444
+0,229022,2,00:25,-, Petr Brabenec, Zdeněk Bělík,2018/2019,0,25,25
+1,229022,2,04:50,-, Jiří Havlan, Petr Brabenec,2018/2019,4,50,290
+2,229022,2,07:40,-, Martin Matoška, Jakub Kras,2018/2019,7,40,460
+0,229429,2,10:37,-, Jiří Tuček, Jan Jiroušek,2018/2019,10,37,637
+0,232669,1,06:49,SH, Ladislav Griga, Petr Kubuš,2018/2019,6,49,409
+1,232669,2,07:39,-, Lukáš Jirásek, Karel Němec,2018/2019,7,39,459
+0,235066,1,07:19,-, Radim Onderka, Bořek Sláma,2018/2019,7,19,439
+1,235066,3,04:43,-, Radim Onderka, Jan Mičko,2018/2019,4,43,283
+2,235066,3,06:23,-, Marek Toráč, Jan Vrba,2018/2019,6,23,383
+0,235062,1,04:04,-, Čestmír Brousil, Lukáš Trampota,2018/2019,4,4,244
+1,235062,1,06:00,-, Lukáš Trampota, Vladimír Borůvka,2018/2019,6,0,360
+2,235062,2,07:28,SH, Pavel Trampota, Lukáš Trampota,2018/2019,7,28,448
+3,235062,2,09:05,-, Pavel Trampota, Lukáš Trampota,2018/2019,9,5,545
+4,235062,3,05:35,-, Lukáš Trampota, Petr Špaček,2018/2019,5,35,335
+5,235062,3,09:36,-, Petr Špaček, Vladimír Borůvka,2018/2019,9,36,576
+6,235062,3,10:31,-, David Suchánek, Vladimír Labský,2018/2019,10,31,631
+0,237796,1,07:34,-, Jan Rotta, Tomáš Hájek,2018/2019,7,34,454
+1,237796,2,09:01,-, Jan Rotta, Jakub Rokos,2018/2019,9,1,541
+2,237796,2,09:42,-, Michal Staníček, Jan Rotta,2018/2019,9,42,582
+3,237796,3,06:15,-, Tomáš Hájek, Pavel Pohl,2018/2019,6,15,375
+0,237794,1,09:33,-, Ondřej Míka,,2018/2019,9,33,573
+1,237794,2,01:09,PP, Martin Jonák, Vojtěch Mičín,2018/2019,1,9,69
+2,237794,2,05:57,-, Milan Kříž, Ondřej Míka,2018/2019,5,57,357
+3,237794,3,03:55,-, Michal Chyba, Petr Rosička,2018/2019,3,55,235
+4,237794,3,06:30,-, Jindřich Hanousek, Rudolf Neliba,2018/2019,6,30,390
+5,237794,3,11:39,WG, Rudolf Neliba, Zdeněk Fryš,2018/2019,11,39,699
+0,241681,1,01:23,-, Kryštof Hoch, Filip Terč,2018/2019,1,23,83
+1,241681,1,08:12,-, Ondřej Zeman, Jakub Hruška,2018/2019,8,12,492
+2,241681,3,03:29,-, Jaroslav Soldán, Kryštof Hoch,2018/2019,3,29,209
+3,241681,3,03:42,-, Jakub Klement, Ondřej Zeman,2018/2019,3,42,222
+4,241681,3,05:53,-, Filip Terč, Václav Boček,2018/2019,5,53,353
+5,241681,3,09:55,-, Mikuláš Vyleta, Jakub Klement,2018/2019,9,55,595
+0,241679,3,01:04,-, Tomáš Erba, Martin Fencl,2018/2019,1,4,64
+0,244656,1,00:55,-, Martin Reichelt, Zdeněk Bělík,2018/2019,0,55,55
+1,244656,2,11:52,-, Petr Brabenec, Ondřej Kulka,2018/2019,11,52,712
+2,244656,3,07:27,-, Lukáš Bárta, Jakub Kras,2018/2019,7,27,447
+3,244656,3,11:13,-, Jiří Havlan, Petr Brabenec,2018/2019,11,13,673
+0,244654,1,00:23,-, Roman Major, Patrik Vavruška,2018/2019,0,23,23
+1,244654,2,08:43,-, Karel Němec, Jaroslav Nedbal,2018/2019,8,43,523
+2,244654,2,09:14,-, Václav Motyka, Jan Podhorník,2018/2019,9,14,554
+3,244654,3,02:12,SH, Lukáš Jirásek, Karel Němec,2018/2019,2,12,132
+4,244654,3,07:30,-, Petr Kasal, Petr Kubuš,2018/2019,7,30,450
+0,247475,1,06:05,-, Michael Dvořák, Šimon Pospíšil,2018/2019,6,5,365
+1,247475,2,03:34,-, Vojtěch Roun, Martin Hruška,2018/2019,3,34,214
+2,247475,3,03:41,PP, Robin Franče, Martin Hruška,2018/2019,3,41,221
+3,247475,3,08:51,-, Lukáš Veselý, Šimon Krbec,2018/2019,8,51,531
+0,247472,2,00:33,-, David Suchánek, Jakub Mikeš,2018/2019,0,33,33
+1,247472,2,03:33,-, David Suchánek,,2018/2019,3,33,213
+2,247472,3,04:48,-, Jakub Mikeš, David Suchánek,2018/2019,4,48,288
+0,233120,2,09:42,-, Ondřej Zeman, Jakub Hruška,2018/2019,9,42,582
+0,250976,1,09:51,-, David Martynek, Jiří Novák,2018/2019,9,51,591
+1,250976,2,11:29,-, Vít Zahradník, Martin Bezchleba,2018/2019,11,29,689
+2,250976,3,02:06,-, David Martynek, Petr Marušák,2018/2019,2,6,126
+0,255307,1,06:28,-, David Suchánek, Čestmír Brousil,2019/2020,6,28,388
+1,255307,1,11:39,-, Jakub Zuman, Petr Špaček,2019/2020,11,39,699
+2,255307,2,03:53,-, Jakub Zuman, David Suchánek,2019/2020,3,53,233
+3,255307,3,03:01,PS, Jakub Zuman,,2019/2020,3,1,181
+4,255307,3,04:19,-, David Suchánek, Jakub Zuman,2019/2020,4,19,259
+5,255307,3,10:39,-, Petr Špaček, David Suchánek,2019/2020,10,39,639
+0,257489,1,08:05,-, Daniel Kubát, Tomáš Lasek,2019/2020,8,5,485
+1,257489,2,06:28,-, Lukáš Spálenka, Tomáš Zimmer,2019/2020,6,28,388
+2,257489,3,00:57,-, Martin Javor, Daniel Kubát,2019/2020,0,57,57
+3,257489,3,01:49,-, Martin Laštovka, Lukáš Spálenka,2019/2020,1,49,109
+4,257489,3,02:40,-, Daniel Kubát, Tomáš Lasek,2019/2020,2,40,160
+5,257489,3,04:26,-, Daniel Kubát, Martin Javor,2019/2020,4,26,266
+0,257484,1,00:46,-, David Schneider, Jiří Neradil,2019/2020,0,46,46
+1,257484,1,06:56,-, David Schneider, Jaroslav Chalupný,2019/2020,6,56,416
+2,257484,2,06:17,-, Jaroslav Chalupný, David Schneider,2019/2020,6,17,377
+3,257484,2,11:18,-, Štěpán Sládek, Jaroslav Chalupný,2019/2020,11,18,678
+4,257484,3,11:40,-, Jiří Šimon, Jiří Neradil,2019/2020,11,40,700
+0,260191,1,00:38,-, Martin Bosák,,2019/2020,0,38,38
+1,260191,1,03:12,-, Aleš Martínek, Rudolf Rubáš,2019/2020,3,12,192
+2,260191,1,04:31,-, Petr Sukalovský, Petr Zahradník,2019/2020,4,31,271
+3,260191,3,10:05,-, Petr Sukalovský, Martin Bosák,2019/2020,10,5,605
+4,260191,3,11:25,-, Petr Sukalovský, Martin Bosák,2019/2020,11,25,685
+0,260187,1,01:20,-, Petr Káda, Václav Skopový,2019/2020,1,20,80
+1,260187,1,07:05,-, Štěpán Pavelka, Václav Skopový,2019/2020,7,5,425
+2,260187,1,09:33,-, Václav Skopový, Petr Káda,2019/2020,9,33,573
+3,260187,2,04:54,PP, Zdeněk Burian, Štěpán Pavelka,2019/2020,4,54,294
+4,260187,2,06:58,-, Štěpán Pavelka, Václav Skopový,2019/2020,6,58,418
+5,260187,2,11:54,-, Štěpán Pavelka,,2019/2020,11,54,714
+6,260187,3,09:19,-, Václav Skopový, Petr Káda,2019/2020,9,19,559
+0,263242,3,08:18,PP, Jakub Šach, Martin Feix,2019/2020,8,18,498
+0,263237,1,04:43,-, Petr Mencl, Ondřej Bendík,2019/2020,4,43,283
+1,263237,1,07:28,-, Ondřej Bendík, Petr Mencl,2019/2020,7,28,448
+2,263237,2,01:18,PS, David Volek,,2019/2020,1,18,78
+3,263237,2,08:39,-, Martin Denk, Jakub Mucha,2019/2020,8,39,519
+4,263237,3,01:46,-, David Volek, Adam Král,2019/2020,1,46,106
+5,263237,3,05:30,-, Jakub Mucha, Martin Denk,2019/2020,5,30,330
+6,263237,3,09:22,-, Martin Denk,,2019/2020,9,22,562
+0,266162,3,02:13,-, Robert Sára, Jiří Drozdek,2019/2020,2,13,133
+1,266162,3,10:16,-, Václav Kašpar, Jan Tomeček,2019/2020,10,16,616
+0,266158,2,09:39,-, Jurij Dredenidov, Petr Novák,2019/2020,9,39,579
+1,266158,3,00:14,-, Pavel Svoboda, Martin Mareček,2019/2020,0,14,14
+2,266158,3,11:02,-, Petr Novák, Jakub Petříček,2019/2020,11,2,662
+0,271020,1,08:12,-, Vladimír Labský, Jakub Mikeš,2019/2020,8,12,492
+1,271020,3,01:39,-, David Suchánek, Petr Špaček,2019/2020,1,39,99
+0,278201,1,01:11,-, Jaroslav Chalupný, Jakub Šíma,2019/2020,1,11,71
+1,278201,1,02:01,-, Jan Hejcman, Jakub Šíma,2019/2020,2,1,121
+2,278201,1,07:39,-, Jan Hejcman, Jiří Šimon,2019/2020,7,39,459
+3,278201,1,09:35,-, Jakub Šíma, Jaroslav Chalupný,2019/2020,9,35,575
+4,278201,2,02:39,-, David Schneider, David Bursík,2019/2020,2,39,159
+5,278201,2,03:30,-, David Bursík, Jaroslav Chalupný,2019/2020,3,30,210
+6,278201,2,05:31,-, Jiří Šimon, Jaroslav Chalupný,2019/2020,5,31,331
+7,278201,2,11:07,-, Jakub Šíma, Jaroslav Chalupný,2019/2020,11,7,667
+8,278201,3,01:53,-, Jakub Šíma, David Schneider,2019/2020,1,53,113
+9,278201,3,08:16,-, Jan Vršek, Jakub Šíma,2019/2020,8,16,496
+10,278201,3,08:31,-, Michal Kárník, Jakub Šíma,2019/2020,8,31,511
+11,278201,3,08:56,-, David Schneider, Jakub Šíma,2019/2020,8,56,536
+12,278201,3,09:21,-, David Bursík, Jiří Šimon,2019/2020,9,21,561
+13,278201,3,11:09,-, David Schneider, Jakub Šíma,2019/2020,11,9,669
+0,278200,1,11:35,-, Jan Škeřík, Martin Javor,2019/2020,11,35,695
+0,284054,1,10:26,PP, Martin Poruba, Vojtěch Mlnářík,2020/2021,10,26,626
+1,284054,2,00:25,-, Daniel Drake, Jan Valenta,2020/2021,0,25,25
+2,284054,2,01:54,-, Jan Valenta, Daniel Drake,2020/2021,1,54,114
+3,284054,2,02:27,-, Vojtěch Mlnářík, Jan Valenta,2020/2021,2,27,147
+4,284054,2,04:07,-, Pavel Harouš, Martin Poruba,2020/2021,4,7,247
+5,284054,3,03:17,PP, Martin Murín,,2020/2021,3,17,197
+0,284058,1,08:03,-, Milan Tvrdík,,2020/2021,8,3,483
+1,284058,2,09:43,-, Filip Robotka,,2020/2021,9,43,583
+0,287591,2,08:21,-, Tomáš Hájek, Jakub Rokos,2020/2021,8,21,501
+1,287591,3,09:25,-, Ondřej Rosický, Matěj Masný,2020/2021,9,25,565
+0,287905,1,08:20,-, David Cajthaml, Vojtěch Rys,2020/2021,8,20,500
+1,287905,1,09:52,-, Valentýn Cajthaml, Vojtěch Rys,2020/2021,9,52,592
+2,287905,2,08:10,-, Valentýn Cajthaml, Martin Winter,2020/2021,8,10,490
+0,291144,2,03:01,-, Jiří Kliner,,2021/2022,3,1,181
+1,291144,2,05:55,-, Michal Brnka, Jiří Bauer,2021/2022,5,55,355
+2,291144,3,01:23,-, Michal Brnka, Tomáš Vokšický,2021/2022,1,23,83
+3,291144,3,07:02,PP, Petr Hrubec, Kryštof Dítě,2021/2022,7,2,422
+4,291144,3,08:53,PP, Jáchym Kašpárek, Kryštof Dítě,2021/2022,8,53,533
+5,291144,3,11:57,-, Michal Brnka, Jiří Bauer,2021/2022,11,57,717
+0,291700,1,01:51,-, Jiří Havel, Mario Cedrych,2021/2022,1,51,111
+1,291700,1,10:28,-, Jiří Havel, Jan Tomka,2021/2022,10,28,628
+2,291700,2,09:26,PP, Jiří Havel, Mario Cedrych,2021/2022,9,26,566
+3,291700,2,11:57,-, Jiří Havel, Mario Cedrych,2021/2022,11,57,717
+0,293466,3,09:58,-, Martin Javor, Jakub Dobiáš,2021/2022,9,58,598
+0,297187,1,09:52,-, Jakub Wágner, František Novák,2021/2022,9,52,592
+1,297187,2,01:25,-, Zbyněk Prokšan, Tomáš Kašpar,2021/2022,1,25,85
+2,297187,2,05:01,-, František Novák, Jakub Wágner,2021/2022,5,1,301
+3,297187,2,07:39,-, Jiří Sobotka, Tomáš Novotný,2021/2022,7,39,459
+4,297187,2,08:00,-, František Novák, Jakub Wágner,2021/2022,8,0,480
+5,297187,3,04:06,-, Daniel Dohnal,,2021/2022,4,6,246
+6,297187,3,05:42,-, František Novák, Jakub Wágner,2021/2022,5,42,342
+7,297187,3,09:16,-, Michal Doležal, Tomáš Kašpar,2021/2022,9,16,556
+8,297187,3,09:51,-, Michal Doležal, Teodor Bodlák,2021/2022,9,51,591
+0,297199,1,03:51,-, Jan Šmíd, Lukáš Tretera,2021/2022,3,51,231
+1,297199,1,10:58,-, Lukáš Tretera, Jan Šmíd,2021/2022,10,58,658
+2,297199,1,11:45,-, Michael Dvořák, Tomáš Mráz,2021/2022,11,45,705
+3,297199,2,00:37,-, Jan Šmíd, Jan Miler,2021/2022,0,37,37
+4,297199,2,01:45,-, Lukáš Veselý, Robin Franče,2021/2022,1,45,105
+5,297199,3,03:02,-, Adam Schindler, Zdeněk Šlégl,2021/2022,3,2,182
+6,297199,3,07:24,-, Jan Šmíd, Jan Miler,2021/2022,7,24,444
+7,297199,3,10:27,-, Jan Šmíd, Lukáš Tretera,2021/2022,10,27,627
+0,300872,1,01:31,-, Jiří Marvan,,2021/2022,1,31,91
+1,300872,1,04:24,-, Karel Rys, Jakub Kvasnička,2021/2022,4,24,264
+2,300872,2,04:26,-, Martin Šťastný, Jan Mitka,2021/2022,4,26,266
+3,300872,2,06:09,-, Martin Šťastný, Jan Mitka,2021/2022,6,9,369
+4,300872,2,10:07,-, Adam Houdek, Michal Velechovský,2021/2022,10,7,607
+5,300872,2,11:55,-, Martin Mikšovský, Jakub Houdek,2021/2022,11,55,715
+6,300872,3,10:44,-, Jan Mitka,,2021/2022,10,44,644
+7,300872,3,11:31,-, Martin Patocs, Adam Houdek,2021/2022,11,31,691
+8,300872,3,11:41,-, Jan Mitka, Jiří Marvan,2021/2022,11,41,701
+0,300871,1,08:20,-, Tomáš Votrubec, Václav Sládek,2021/2022,8,20,500
+1,300871,2,07:39,-, Ondřej Lukeš, Miroslav Dobš,2021/2022,7,39,459
+2,300871,2,10:31,-, Ondřej Hošek, Pavel Klemera,2021/2022,10,31,631
+3,300871,2,11:51,SH, Lubomír Mrazík, Miroslav Dobš,2021/2022,11,51,711
+4,300871,3,00:14,SH, Pavel Klemera, Lukáš Kouba,2021/2022,0,14,14
+5,300871,3,07:02,-, Lubomír Mrazík, Miroslav Dobš,2021/2022,7,2,422

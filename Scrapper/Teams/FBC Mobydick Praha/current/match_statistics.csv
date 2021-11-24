@@ -1,0 +1,45 @@
+,Id,Team,Opponent,Goal_team,Goal_opponent,Outcome,Date_place,visitors,begin_end,round_soutez,casti_strely,referee,delegate,MOTM_Team,MOTM_Opponent,MOTM,Season
+0,290622,FBC Mobydick Praha,FBC Draci Říčany TT B,6,1,Win,sobota 18.09.2021; SH Kostelec nad Černými lesy,počet diváků: 0,začátek 08:00; konec 09:02,Utkání: 3XM8-D001; 1. kolo; PH a SČ soutěž mužů,"části: 0:1, 0:3, 1:2, střely na branku: 0:0","rozhodčí: Heřmánek Josef, Kopta Petr",delegát: ,"                   Player
+11  99 Petr Zahradník (U)","                   Player
+8  93 Martin Kaprálek (U)","                   Player
+11  99 Petr Zahradník (U)",2021/2022
+1,291306,FBC Mobydick Praha,FBC Vokovický Šavle,4,2,Win,sobota 18.09.2021; SH Kostelec nad Černými lesy,počet diváků: 0,začátek 10:20; konec 11:25,Utkání: 3XM8-D003; 1. kolo; PH a SČ soutěž mužů,"části: 1:0, 2:0, 1:2, střely na branku: 0:0","rozhodčí: Hertz David, Preclík Martin",delegát: ,"                 Player
+10  96 Rudolf Rubáš (U)","               Player
+0  9 Petr Brychta (U)","                 Player
+10  96 Rudolf Rubáš (U)
+0    9 Petr Brychta (U)",2021/2022
+2,294684,FBC Mobydick Praha,FBC Hornets Praha,4,0,Win,neděle 10.10.2021; SH Kostelec nad Černými lesy,počet diváků: 8,začátek 09:40; konec 10:42,Utkání: 3XM8-D012; 2. kolo; PH a SČ soutěž mužů,"části: 2:0, 1:0, 1:0, střely na branku: 0:0","rozhodčí: Trnobranský Karel, Tůma Jan",delegát: ,"               Player
+11  91 Marek Pukl (U)","Empty DataFrame
+Columns: [Player]
+Index: []","               Player
+11  91 Marek Pukl (U)",2021/2022
+3,294688,FBC Mobydick Praha,FBC Vokovický Šavle,11,4,Lose,neděle 10.10.2021; SH Kostelec nad Černými lesy,počet diváků: 0,začátek 13:10; konec 14:12,Utkání: 3XM8-D015; 2. kolo; PH a SČ soutěž mužů,"části: 1:5, 1:2, 2:4, střely na branku: 0:0","rozhodčí: Weber Štěpán, Sysel Jan",delegát: ,"                Player
+7  23 Martin Bosák (U)","                  Player
+1     11 Josef Kurka (U)
+3  17 Vladimír Oliva (O)
+6    33 Jan Pernikář (U)","                Player
+7  23 Martin Bosák (U)",2021/2022
+4,295536,FBC Mobydick Praha,FAT PIPE FLORBAL CHODOV D,3,2,Win,sobota 30.10.2021; SH Zruč nad Sázavou,počet diváků: 0,začátek 16:10; konec 17:05,Utkání: 3XM8-D028; 3. kolo; PH a SČ soutěž mužů,"části: 2:0, 1:1, 0:1, střely na branku: 0:0","rozhodčí: Tůma Jan, Voves Pavel",delegát: ,"Empty DataFrame
+Columns: [Player]
+Index: []","Empty DataFrame
+Columns: [Player]
+Index: []","Empty DataFrame
+Columns: [Player]
+Index: []",2021/2022
+5,293079,FBC Mobydick Praha,TJ Jiskra Zruč nad Sázavou,3,2,Win,sobota 30.10.2021; SH Zruč nad Sázavou,počet diváků: 15,začátek 18:15; konec 19:15,Utkání: 3XM8-D030; 3. kolo; PH a SČ soutěž mužů,"části: 2:0, 0:3, 0:0, střely na branku: 0:0","rozhodčí: McIntosh Alexander, Voves Pavel",delegát: ,"                   Player
+2  11 Petr Sukalovský (U)
+5     23 Martin Bosák (U)","Empty DataFrame
+Columns: [Player]
+Index: []","                   Player
+2  11 Petr Sukalovský (U)
+5     23 Martin Bosák (U)",2021/2022
+6,301969,FBC Mobydick Praha,Vlci TATRAN Kostelec nad Č.L.,4,0,Win,neděle 21.11.2021; Exe Sport Arena,počet diváků: 22,začátek 11:25; konec 12:20,Utkání: 3XM8-D033; 4. kolo; PH a SČ soutěž mužů,"části: 0:0, 1:0, 3:0, střely na branku: 0:0","rozhodčí: Weber Štěpán, Hašlík Radoslav",delegát: Černý Jan,"                Player
+5  23 Martin Bosák (U)","Empty DataFrame
+Columns: [Player]
+Index: []","                Player
+5  23 Martin Bosák (U)",2021/2022
+7,301973,FBC Mobydick Praha,FBC YOUNG BOYS,2,3,Lose,neděle 21.11.2021; Exe Sport Arena,počet diváků: 15,začátek 13:40; konec 14:36,Utkání: 3XM8-D035; 4. kolo; PH a SČ soutěž mužů,"části: 0:1, 1:0, 1:1, střely na branku: 0:0","rozhodčí: Weber Štěpán, Hašlík Radoslav",delegát: ,"Empty DataFrame
+Columns: [Player]
+Index: []","                Player
+2  5 František Pok (U)","                Player
+2  5 František Pok (U)",2021/2022

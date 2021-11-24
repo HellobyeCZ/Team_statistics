@@ -1,0 +1,414 @@
+,Id,Period,Time,Type,Goal,Assist,Season,Minute,Seconds,Seconds_all
+0,132643,3,11:43,-, Tomáš Weisser, Martin Bukovič,2015/2016,11,43,703
+0,132644,1,07:33,-, Jakub Hruška, Kryštof Hoch,2015/2016,7,33,453
+1,132644,2,01:45,-, Mikuláš Vyleta, Jiří Kvasnička,2015/2016,1,45,105
+2,132644,2,02:11,-, Filip Terč, Martin Bukovič,2015/2016,2,11,131
+0,133941,1,03:54,-, Tomáš Weisser, Jiří Kvasnička,2015/2016,3,54,234
+1,133941,2,02:27,-, Jakub Hruška, Kryštof Hoch,2015/2016,2,27,147
+2,133941,2,05:36,-, Tomáš Weisser, Ondřej Zeman,2015/2016,5,36,336
+3,133941,2,08:09,-, Vojtěch Brávek, Jakub Klement,2015/2016,8,9,489
+4,133941,3,04:46,PP, Filip Terč, Kryštof Hoch,2015/2016,4,46,286
+5,133941,3,08:53,PP, Jakub Hruška, Vojtěch Brávek,2015/2016,8,53,533
+0,133943,1,00:53,PS, Jakub Klement,,2015/2016,0,53,53
+1,133943,1,03:17,-, Ondřej Zeman, Antonio Rotondo,2015/2016,3,17,197
+2,133943,2,05:28,-, Jakub Hruška, Vojtěch Brávek,2015/2016,5,28,328
+3,133943,3,04:52,-, Mikuláš Vyleta, Vojtěch Brávek,2015/2016,4,52,292
+0,136045,1,07:52,PS, Jakub Klement,,2015/2016,7,52,472
+1,136045,3,06:33,-, Kryštof Hoch, Mikuláš Vyleta,2015/2016,6,33,393
+0,136061,3,10:57,-, Kryštof Hoch, Jakub Klement,2015/2016,10,57,657
+0,138158,1,07:42,-, Vojtěch Brávek,,2015/2016,7,42,462
+1,138158,1,09:07,-, Jakub Klement, Kryštof Hoch,2015/2016,9,7,547
+2,138158,2,06:37,PS, Jakub Klement,,2015/2016,6,37,397
+3,138158,2,07:16,-, Ondřej Zeman, Jakub Hruška,2015/2016,7,16,436
+4,138158,3,03:27,-, Jakub Hruška, Filip Terč,2015/2016,3,27,207
+0,138161,1,11:20,-, Jakub Klement, Jakub Hruška,2015/2016,11,20,680
+1,138161,2,02:13,-, Vojtěch Brávek, Kryštof Hoch,2015/2016,2,13,133
+2,138161,2,09:40,-, Ondřej Zeman, Vojtěch Brávek,2015/2016,9,40,580
+3,138161,3,05:11,-, Jakub Hruška, Jakub Klement,2015/2016,5,11,311
+4,138161,3,06:14,-, Jakub Klement, Kryštof Hoch,2015/2016,6,14,374
+0,139413,2,04:42,-, Kryštof Hoch, Mikuláš Vyleta,2015/2016,4,42,282
+1,139413,2,08:32,-, Jakub Hruška, Mikuláš Vyleta,2015/2016,8,32,512
+2,139413,2,08:58,-, Štěpán Kalina, Jakub Hruška,2015/2016,8,58,538
+3,139413,3,04:14,-, Ondřej Zeman, Jakub Hruška,2015/2016,4,14,254
+0,139432,1,08:24,-, Jakub Hruška, Jakub Klement,2015/2016,8,24,504
+1,139432,1,09:09,-, Štěpán Kalina,,2015/2016,9,9,549
+2,139432,2,03:07,PS, Jakub Klement,,2015/2016,3,7,187
+3,139432,2,09:07,-, Tomáš Weisser,,2015/2016,9,7,547
+4,139432,2,11:15,-, Jakub Hruška, Jakub Klement,2015/2016,11,15,675
+5,139432,3,00:22,-, Štěpán Kalina,,2015/2016,0,22,22
+6,139432,3,03:17,-, Jakub Hruška, Jakub Klement,2015/2016,3,17,197
+7,139432,3,03:31,-, Jakub Hruška,,2015/2016,3,31,211
+8,139432,3,05:17,-, Jakub Hruška, Mikuláš Vyleta,2015/2016,5,17,317
+0,142369,2,05:11,-, Michal Šíma, Kryštof Hoch,2015/2016,5,11,311
+1,142369,3,01:43,-, Ondřej Zeman, Jakub Klement,2015/2016,1,43,103
+2,142369,3,01:49,-, Tomáš Weisser, Kryštof Hoch,2015/2016,1,49,109
+3,142369,3,10:08,-, Kryštof Hoch, Tomáš Weisser,2015/2016,10,8,608
+0,142372,1,09:08,-, Jakub Klement, Tomáš Weisser,2015/2016,9,8,548
+1,142372,2,06:39,-, Michal Šíma, Martin Bukovič,2015/2016,6,39,399
+2,142372,3,06:00,-, Ondřej Zeman, Jakub Klement,2015/2016,6,0,360
+3,142372,3,11:04,-, Martin Bukovič, Kryštof Hoch,2015/2016,11,4,664
+4,142372,3,11:46,-, Jakub Hruška,,2015/2016,11,46,706
+0,144132,2,11:34,-, Ondřej Zeman, Martin Bukovič,2015/2016,11,34,694
+1,144132,3,01:56,-, Martin Bukovič, Ondřej Zeman,2015/2016,1,56,116
+0,144134,1,02:52,-, Ondřej Zeman, Jakub Hruška,2015/2016,2,52,172
+1,144134,1,11:10,OG, Dominik Hlaváček,,2015/2016,11,10,670
+2,144134,3,10:29,-, Michal Šíma, Martin Bukovič,2015/2016,10,29,629
+0,145416,1,09:20,-, Jakub Klement, Ondřej Zeman,2015/2016,9,20,560
+1,145416,2,10:44,-, Jakub Klement, Daniel Klugar,2015/2016,10,44,644
+2,145416,3,11:20,-, Stanislav Kodet, Daniel Klugar,2015/2016,11,20,680
+0,145419,1,05:10,-, Ondřej Zeman,,2015/2016,5,10,310
+1,145419,1,11:59,-, Tomáš Weisser,,2015/2016,11,59,719
+2,145419,2,01:50,-, Tomáš Weisser, Max Horn,2015/2016,1,50,110
+0,148808,1,03:32,-, Mikuláš Vyleta, Kryštof Hoch,2015/2016,3,32,212
+1,148808,1,04:36,-, Ondřej Zeman, Jakub Hruška,2015/2016,4,36,276
+2,148808,2,09:41,PP, Mikuláš Vyleta, Kryštof Hoch,2015/2016,9,41,581
+3,148808,3,03:06,-, Jakub Klement, Kryštof Hoch,2015/2016,3,6,186
+4,148808,3,03:23,-, Jakub Hruška, Ondřej Zeman,2015/2016,3,23,203
+5,148808,3,09:41,-, Štěpán Kalina, Mikuláš Vyleta,2015/2016,9,41,581
+0,148818,1,07:31,-, Jakub Klement,,2015/2016,7,31,451
+1,148818,1,11:43,-, Jakub Hruška, Jakub Klement,2015/2016,11,43,703
+2,148818,3,05:02,-, Jakub Hruška,,2015/2016,5,2,302
+3,148818,3,08:30,-, Štěpán Kalina, Max Horn,2015/2016,8,30,510
+4,148818,3,10:38,-, Mikuláš Vyleta, Bohumil Holada,2015/2016,10,38,638
+5,148818,3,11:53,-, Martin Bukovič, Antonio Rotondo,2015/2016,11,53,713
+0,151296,1,07:06,-, Ondřej Zeman, Kryštof Hoch,2015/2016,7,6,426
+1,151296,3,09:13,PS, Jakub Klement,,2015/2016,9,13,553
+0,151313,1,03:21,-, Kryštof Hoch, Ondřej Zeman,2015/2016,3,21,201
+1,151313,1,05:32,-, Jakub Hruška, Jakub Klement,2015/2016,5,32,332
+2,151313,1,06:49,-, Ondřej Zeman, Jakub Hruška,2015/2016,6,49,409
+3,151313,2,01:45,-, Vojtěch Brávek, Michal Šíma,2015/2016,1,45,105
+4,151313,2,07:23,-, Jakub Klement, Ondřej Zeman,2015/2016,7,23,443
+5,151313,3,01:06,-, Jakub Klement, Ondřej Zeman,2015/2016,1,6,66
+0,153302,3,01:26,-, Daniel Klugar, Ondřej Zeman,2015/2016,1,26,86
+1,153302,3,09:01,-, Tomáš Weisser,,2015/2016,9,1,541
+2,153302,3,10:28,-, Ondřej Zeman, Jakub Hruška,2015/2016,10,28,628
+0,153426,1,00:53,OG, Petr Kohout,,2015/2016,0,53,53
+1,153426,1,02:21,-, Ondřej Zeman, Jakub Hruška,2015/2016,2,21,141
+2,153426,3,01:20,-, Jakub Hruška, Ondřej Zeman,2015/2016,1,20,80
+3,153426,3,03:38,-, Jakub Klement, Ondřej Zeman,2015/2016,3,38,218
+4,153426,3,05:59,-, Kryštof Hoch, Jakub Klement,2015/2016,5,59,359
+5,153426,3,08:17,-, Jakub Klement, Ondřej Zeman,2015/2016,8,17,497
+0,155310,1,05:00,PP, Max Horn, Martin Bukovič,2015/2016,5,0,300
+1,155310,1,06:09,-, Filip Terč, Stanislav Kodet,2015/2016,6,9,369
+2,155310,1,11:58,-, Martin Bukovič, Vojtěch Brávek,2015/2016,11,58,718
+3,155310,2,01:14,-, Ondřej Zeman, Stanislav Kodet,2015/2016,1,14,74
+4,155310,2,07:04,-, Kryštof Hoch, Max Horn,2015/2016,7,4,424
+5,155310,3,00:49,PP, Filip Terč, Ondřej Zeman,2015/2016,0,49,49
+0,155930,1,03:18,-, Ondřej Zeman,,2015/2016,3,18,198
+1,155930,1,04:30,-, Jakub Hruška,,2015/2016,4,30,270
+2,155930,1,07:47,-, Vojtěch Brávek,,2015/2016,7,47,467
+3,155930,2,01:40,SH, Ondřej Zeman, Kryštof Hoch,2015/2016,1,40,100
+4,155930,2,06:13,-, Kryštof Hoch, Jakub Klement,2015/2016,6,13,373
+5,155930,2,07:49,-, Stanislav Kodet, Vojtěch Brávek,2015/2016,7,49,469
+6,155930,3,08:39,-, Max Horn, Kryštof Hoch,2015/2016,8,39,519
+0,158160,1,02:21,-, Michal Šíma,,2016/2017,2,21,141
+1,158160,2,11:35,-, Michal Šíma,,2016/2017,11,35,695
+0,158165,3,00:48,-, Daniel Klugar, Jakub Klement,2016/2017,0,48,48
+1,158165,3,11:18,-, Ondřej Zeman, Vojtěch Brávek,2016/2017,11,18,678
+2,158165,3,11:34,-, Ondřej Zeman,,2016/2017,11,34,694
+0,160696,1,03:28,-, Ondřej Zeman, Jakub Hruška,2016/2017,3,28,208
+1,160696,1,08:32,-, Ondřej Zeman, Jakub Hruška,2016/2017,8,32,512
+2,160696,1,09:47,PP, Stanislav Kodet, Jakub Klement,2016/2017,9,47,587
+3,160696,2,01:07,-, Ondřej Zeman,,2016/2017,1,7,67
+4,160696,2,05:10,-, Jakub Klement,,2016/2017,5,10,310
+5,160696,2,09:03,PP, Ondřej Zeman, Jakub Klement,2016/2017,9,3,543
+6,160696,2,10:42,-, Jakub Hruška, Michal Šíma,2016/2017,10,42,642
+7,160696,3,04:56,-, Vojtěch Brávek,,2016/2017,4,56,296
+8,160696,3,11:20,-, Michal Šíma,,2016/2017,11,20,680
+0,165178,1,10:58,-, Jakub Klement, Martin Bukovič,2016/2017,10,58,658
+1,165178,3,07:55,-, Ondřej Zeman, Josef Kopecký,2016/2017,7,55,475
+0,167687,2,08:24,-, Kryštof Hoch,,2016/2017,8,24,504
+1,167687,2,09:10,-, Michal Šíma,,2016/2017,9,10,550
+2,167687,2,10:07,-, Jakub Hruška,,2016/2017,10,7,607
+0,167690,2,03:50,-, Kryštof Hoch, Štěpán Kalina,2016/2017,3,50,230
+1,167690,2,10:23,-, Michal Šíma, Daniel Klugar,2016/2017,10,23,623
+2,167690,2,11:20,-, Jakub Hruška, Ondřej Zeman,2016/2017,11,20,680
+3,167690,2,11:35,-, Michal Šíma, Filip Terč,2016/2017,11,35,695
+4,167690,3,03:48,-, Štěpán Kalina,,2016/2017,3,48,228
+0,170888,1,05:27,-, Vojtěch Brávek,,2016/2017,5,27,327
+1,170888,1,06:59,-, Jakub Klement, Jakub Hruška,2016/2017,6,59,419
+2,170888,1,08:46,-, Vojtěch Brávek, Ondřej Zeman,2016/2017,8,46,526
+3,170888,2,01:33,-, Kryštof Hoch, Jakub Klement,2016/2017,1,33,93
+4,170888,2,03:48,-, Vojtěch Brávek, Ondřej Zeman,2016/2017,3,48,228
+5,170888,2,07:35,SH, Kryštof Hoch, Jakub Klement,2016/2017,7,35,455
+6,170888,2,09:16,PP, Kryštof Hoch, Jakub Hruška,2016/2017,9,16,556
+7,170888,2,10:33,PP, Vojtěch Brávek, Filip Terč,2016/2017,10,33,633
+8,170888,3,07:00,-, Daniel Klugar, Jakub Klement,2016/2017,7,0,420
+9,170888,3,07:45,-, Ondřej Zeman, Filip Terč,2016/2017,7,45,465
+10,170888,3,08:09,-, Daniel Klugar, Filip Terč,2016/2017,8,9,489
+11,170888,3,11:59,-, Ondřej Zeman, Vojtěch Brávek,2016/2017,11,59,719
+0,170890,1,04:13,-, Kryštof Hoch, Ondřej Zeman,2016/2017,4,13,253
+1,170890,1,08:00,-, Jakub Hruška, Ondřej Zeman,2016/2017,8,0,480
+2,170890,2,02:10,-, Jakub Hruška, Ondřej Zeman,2016/2017,2,10,130
+3,170890,3,11:37,PP, Vojtěch Brávek, Filip Terč,2016/2017,11,37,697
+0,173095,1,03:24,-, Ondřej Zeman, Jakub Hruška,2016/2017,3,24,204
+1,173095,3,11:45,-, Ondřej Zeman, Jakub Hruška,2016/2017,11,45,705
+0,173117,2,00:48,PP, Filip Terč, Daniel Klugar,2016/2017,0,48,48
+1,173117,2,01:10,-, Daniel Klugar, Martin Bukovič,2016/2017,1,10,70
+2,173117,2,04:44,-, Jakub Rejf, Martin Bukovič,2016/2017,4,44,284
+3,173117,2,05:59,-, Jakub Klement, Jakub Hruška,2016/2017,5,59,359
+0,174037,2,07:58,-, Kryštof Hoch, Jakub Klement,2016/2017,7,58,478
+1,174037,2,09:03,-, Jakub Hruška, Michal Šíma,2016/2017,9,3,543
+2,174037,3,06:31,-, Jakub Hruška, Michal Šíma,2016/2017,6,31,391
+3,174037,3,11:49,-, Michal Šíma, Jakub Klement,2016/2017,11,49,709
+0,177651,1,05:15,PP, Jakub Hruška, Kryštof Hoch,2016/2017,5,15,315
+1,177651,2,02:33,-, Michal Šíma, Jakub Hruška,2016/2017,2,33,153
+2,177651,2,09:48,-, Jakub Klement, Kryštof Hoch,2016/2017,9,48,588
+3,177651,3,03:01,-, Kryštof Hoch, Michal Šíma,2016/2017,3,1,181
+4,177651,3,10:03,-, Michal Šíma, Jakub Klement,2016/2017,10,3,603
+5,177651,3,11:44,-, Jakub Hruška, Jakub Klement,2016/2017,11,44,704
+0,181133,1,05:31,-, Daniel Klugar, Ondřej Zeman,2016/2017,5,31,331
+1,181133,1,09:32,-, Jakub Hruška, Ondřej Zeman,2016/2017,9,32,572
+2,181133,2,04:02,-, Ondřej Zeman, Jakub Hruška,2016/2017,4,2,242
+3,181133,3,11:28,-, Ondřej Zeman, Vojtěch Brávek,2016/2017,11,28,688
+0,181139,1,03:11,-, Daniel Klugar, Jakub Klement,2016/2017,3,11,191
+1,181139,2,05:12,-, Ondřej Zeman, Jakub Hruška,2016/2017,5,12,312
+2,181139,2,06:16,-, Vojtěch Brávek, Michal Šíma,2016/2017,6,16,376
+3,181139,2,09:48,PP, Ondřej Zeman, Kryštof Hoch,2016/2017,9,48,588
+4,181139,3,03:28,PP, Stanislav Kodet,,2016/2017,3,28,208
+0,184416,1,11:38,-, Jakub Klement, Jakub Hruška,2016/2017,11,38,698
+0,184419,1,07:49,-, Ondřej Zeman, Jakub Hruška,2016/2017,7,49,469
+1,184419,2,03:19,PP, Kryštof Hoch, Ondřej Zeman,2016/2017,3,19,199
+2,184419,3,02:38,-, Michal Šíma,,2016/2017,2,38,158
+3,184419,3,06:45,-, Jakub Hruška, Ondřej Zeman,2016/2017,6,45,405
+0,186566,1,00:56,-, Daniel Klugar, Vojtěch Brávek,2016/2017,0,56,56
+1,186566,1,05:57,-, Vojtěch Brávek, Michal Šíma,2016/2017,5,57,357
+2,186566,1,09:07,PP, Ondřej Zeman, Jakub Klement,2016/2017,9,7,547
+3,186566,2,03:26,-, Ondřej Zeman, Jakub Klement,2016/2017,3,26,206
+4,186566,2,05:56,-, Michal Šíma, Daniel Klugar,2016/2017,5,56,356
+5,186566,3,07:00,PS, Jakub Klement,,2016/2017,7,0,420
+6,186566,3,09:03,-, Ondřej Zeman, Jakub Hruška,2016/2017,9,3,543
+0,186570,2,00:53,-, Ondřej Zeman, Jakub Klement,2016/2017,0,53,53
+1,186570,3,06:32,PP, Vojtěch Brávek, Ondřej Zeman,2016/2017,6,32,392
+0,188121,1,07:28,-, Stanislav Kodet, Jakub Klement,2017/2018,7,28,448
+1,188121,1,07:48,-, Ondřej Zeman,,2017/2018,7,48,468
+2,188121,1,11:05,-, Mikuláš Vyleta, Daniel Klugar,2017/2018,11,5,665
+3,188121,2,05:08,-, Daniel Klugar, Kryštof Hoch,2017/2018,5,8,308
+4,188121,3,07:39,-, Jakub Klement, Ondřej Zeman,2017/2018,7,39,459
+0,188126,2,05:33,PP, Daniel Klugar, Jakub Klement,2017/2018,5,33,333
+0,188617,1,00:49,-, Michal Šíma, Jakub Hruška,2017/2018,0,49,49
+1,188617,1,10:48,-, Ondřej Zeman, Kryštof Hoch,2017/2018,10,48,648
+2,188617,3,08:09,PS, Daniel Klugar,,2017/2018,8,9,489
+0,188620,1,07:17,-, Kryštof Hoch, Jakub Hruška,2017/2018,7,17,437
+1,188620,1,09:06,PP, Ondřej Zeman, Jakub Klement,2017/2018,9,6,546
+2,188620,2,05:32,-, Mikuláš Vyleta, Kryštof Hoch,2017/2018,5,32,332
+3,188620,2,07:55,-, Mikuláš Vyleta, Jakub Rejf,2017/2018,7,55,475
+4,188620,2,08:39,-, Daniel Klugar, Jakub Klement,2017/2018,8,39,519
+0,190306,1,05:30,-, Daniel Klugar, Filip Terč,2017/2018,5,30,330
+1,190306,1,09:40,-, Jakub Hruška, Ondřej Zeman,2017/2018,9,40,580
+2,190306,1,11:25,-, Ondřej Zeman, Jakub Hruška,2017/2018,11,25,685
+3,190306,3,09:01,-, Jakub Hruška,,2017/2018,9,1,541
+0,197395,1,10:09,-, Kryštof Hoch, Daniel Klugar,2017/2018,10,9,609
+1,197395,2,07:21,-, Jakub Hruška, Ondřej Zeman,2017/2018,7,21,441
+0,190313,1,01:07,-, Michal Šíma, Kryštof Hoch,2017/2018,1,7,67
+1,190313,2,01:09,-, Mikuláš Vyleta, Michal Šíma,2017/2018,1,9,69
+2,190313,2,05:46,PS, Jakub Klement,,2017/2018,5,46,346
+3,190313,2,07:54,-, Ondřej Zeman,,2017/2018,7,54,474
+4,190313,2,11:12,PS, Jakub Klement,,2017/2018,11,12,672
+5,190313,3,05:48,-, Mikuláš Vyleta, Michal Šíma,2017/2018,5,48,348
+6,190313,3,08:43,PP, Jakub Klement,,2017/2018,8,43,523
+0,199709,1,09:00,-, Ondřej Zeman, Kryštof Hoch,2017/2018,9,0,540
+1,199709,1,10:22,-, Kryštof Hoch, Vojtěch Brávek,2017/2018,10,22,622
+2,199709,2,02:07,-, Daniel Klugar, Ondřej Zeman,2017/2018,2,7,127
+3,199709,2,05:58,-, Ondřej Zeman, Kryštof Hoch,2017/2018,5,58,358
+4,199709,3,06:43,-, Kryštof Hoch,,2017/2018,6,43,403
+0,202065,1,00:33,-, Stanislav Kodet, Vojtěch Brávek,2017/2018,0,33,33
+1,202065,1,00:58,-, Ondřej Zeman, Jakub Klement,2017/2018,0,58,58
+2,202065,1,05:30,PP, Kryštof Hoch, Jakub Klement,2017/2018,5,30,330
+3,202065,2,09:19,-, Vojtěch Brávek,,2017/2018,9,19,559
+4,202065,2,11:13,-, Vojtěch Brávek, Jaroslav Soldán,2017/2018,11,13,673
+5,202065,3,05:22,-, Vojtěch Brávek,,2017/2018,5,22,322
+0,202049,1,02:31,-, Vojtěch Brávek, Daniel Klugar,2017/2018,2,31,151
+1,202049,1,05:05,PP, Jakub Hruška, Filip Terč,2017/2018,5,5,305
+2,202049,2,01:37,-, Michal Šíma, Kryštof Hoch,2017/2018,1,37,97
+3,202049,2,08:59,-, Ondřej Zeman, Jakub Klement,2017/2018,8,59,539
+4,202049,2,09:27,-, Jakub Klement, Jakub Hruška,2017/2018,9,27,567
+5,202049,3,05:45,-, Jakub Hruška, Filip Terč,2017/2018,5,45,345
+0,206061,1,00:38,-, Jakub Klement, Ondřej Zeman,2017/2018,0,38,38
+1,206061,1,04:19,-, Michal Šíma, Jakub Hruška,2017/2018,4,19,259
+2,206061,2,03:08,-, Ondřej Zeman, Jakub Hruška,2017/2018,3,8,188
+3,206061,2,05:57,-, Ondřej Zeman, Jakub Hruška,2017/2018,5,57,357
+4,206061,2,06:42,-, Michal Šíma, Ondřej Zeman,2017/2018,6,42,402
+5,206061,2,09:33,-, Daniel Klugar, Vojtěch Brávek,2017/2018,9,33,573
+0,206070,1,01:47,-, Jakub Hruška, Vojtěch Brávek,2017/2018,1,47,107
+1,206070,1,08:49,-, Vojtěch Brávek, Ondřej Zeman,2017/2018,8,49,529
+2,206070,2,00:33,-, Ondřej Zeman, Daniel Klugar,2017/2018,0,33,33
+3,206070,2,11:28,-, Vojtěch Brávek, Ondřej Zeman,2017/2018,11,28,688
+4,206070,3,04:05,-, Vojtěch Brávek,,2017/2018,4,5,245
+5,206070,3,05:33,-, Michal Šíma, Jakub Klement,2017/2018,5,33,333
+0,211408,1,09:29,-, Jakub Klement, Mikuláš Vyleta,2017/2018,9,29,569
+1,211408,1,10:50,SH, Daniel Klugar, Ondřej Zeman,2017/2018,10,50,650
+2,211408,2,08:39,-, Kryštof Hoch, Ondřej Zeman,2017/2018,8,39,519
+3,211408,3,07:43,-, Jakub Klement, Ondřej Zeman,2017/2018,7,43,463
+4,211408,3,11:14,-, Jakub Klement, Kryštof Hoch,2017/2018,11,14,674
+5,211408,3,11:56,-, Ondřej Zeman, Jakub Klement,2017/2018,11,56,716
+0,211427,1,04:47,-, Kryštof Hoch, Mikuláš Vyleta,2017/2018,4,47,287
+1,211427,2,04:27,-, Kryštof Hoch, Jakub Hruška,2017/2018,4,27,267
+2,211427,2,06:39,SH, Vojtěch Brávek,,2017/2018,6,39,399
+3,211427,3,01:14,-, Mikuláš Vyleta, Jakub Klement,2017/2018,1,14,74
+4,211427,3,06:01,-, Jakub Hruška, Michal Šíma,2017/2018,6,1,361
+5,211427,3,06:33,-, Mikuláš Vyleta, Daniel Klugar,2017/2018,6,33,393
+6,211427,3,07:10,-, Kryštof Hoch,,2017/2018,7,10,430
+0,214987,1,07:44,-, Ondřej Zeman, Jakub Klement,2017/2018,7,44,464
+1,214987,2,07:39,-, Filip Terč, Jaroslav Soldán,2017/2018,7,39,459
+2,214987,3,01:45,-, Stanislav Kodet,,2017/2018,1,45,105
+3,214987,3,03:18,-, Daniel Klugar, Jaroslav Soldán,2017/2018,3,18,198
+4,214987,3,04:22,-, Jakub Klement, Ondřej Zeman,2017/2018,4,22,262
+5,214987,3,04:33,-, Michal Šíma, Kryštof Hoch,2017/2018,4,33,273
+6,214987,3,10:40,-, Daniel Klugar, Filip Terč,2017/2018,10,40,640
+0,214982,1,01:04,-, Jakub Klement, Ondřej Zeman,2017/2018,1,4,64
+1,214982,1,04:12,-, Jakub Hruška, Ondřej Zeman,2017/2018,4,12,252
+0,222086,3,05:57,-, Michal Šíma, Jakub Hruška,2018/2019,5,57,357
+1,222086,3,06:03,-, Jakub Hruška, Michal Šíma,2018/2019,6,3,363
+0,222085,1,00:41,-, Jakub Hruška, Mikuláš Vyleta,2018/2019,0,41,41
+1,222085,1,06:09,-, Václav Boček, Michal Šíma,2018/2019,6,9,369
+2,222085,1,09:20,-, Jakub Klement, Jakub Hruška,2018/2019,9,20,560
+3,222085,2,04:11,-, Jakub Klement, Václav Boček,2018/2019,4,11,251
+4,222085,2,06:56,-, Jakub Hruška, Mikuláš Vyleta,2018/2019,6,56,416
+5,222085,3,05:08,-, Jakub Hruška, Michal Šíma,2018/2019,5,8,308
+6,222085,3,08:12,PP, Michal Šíma, Jakub Hruška,2018/2019,8,12,492
+7,222085,3,08:35,-, Václav Boček, Jakub Hruška,2018/2019,8,35,515
+8,222085,3,11:04,-, Jakub Klement, Michal Šíma,2018/2019,11,4,664
+0,225356,1,04:14,-, Václav Boček,,2018/2019,4,14,254
+1,225356,1,05:17,-, Mikuláš Vyleta, Jakub Hruška,2018/2019,5,17,317
+2,225356,2,05:24,PP, Václav Boček, Kryštof Hoch,2018/2019,5,24,324
+3,225356,2,05:52,-, Jakub Hruška, Jakub Klement,2018/2019,5,52,352
+4,225356,3,10:52,-, Mikuláš Vyleta, Jakub Klement,2018/2019,10,52,652
+0,225354,1,05:13,-, Michal Šíma, Václav Boček,2018/2019,5,13,313
+1,225354,1,08:15,-, Ondřej Zeman, Mikuláš Vyleta,2018/2019,8,15,495
+2,225354,1,09:34,-, Daniel Klugar,,2018/2019,9,34,574
+3,225354,2,11:17,-, Václav Boček, Michal Šíma,2018/2019,11,17,677
+4,225354,3,07:13,-, Daniel Klugar, Václav Boček,2018/2019,7,13,433
+0,229020,2,03:12,-, Daniel Klugar, Václav Boček,2018/2019,3,12,192
+1,229020,2,11:10,-, Mikuláš Vyleta, Daniel Klugar,2018/2019,11,10,670
+2,229020,3,00:29,-, Mikuláš Vyleta, Václav Boček,2018/2019,0,29,29
+0,229018,1,07:38,-, Stanislav Kodet, Michal Šíma,2018/2019,7,38,458
+1,229018,1,09:58,-, Václav Boček, Michal Šíma,2018/2019,9,58,598
+2,229018,2,00:58,-, Daniel Klugar, Michal Šíma,2018/2019,0,58,58
+3,229018,2,09:43,PP, Stanislav Kodet, Jakub Klement,2018/2019,9,43,583
+4,229018,3,01:08,-, Václav Boček, Daniel Klugar,2018/2019,1,8,68
+0,234993,2,07:27,-, Václav Boček, Ondřej Zeman,2018/2019,7,27,447
+1,234993,3,08:31,-, Kryštof Hoch,,2018/2019,8,31,511
+2,234993,3,09:04,-, Václav Boček,,2018/2019,9,4,544
+0,235067,1,03:14,-, Mikuláš Vyleta,,2018/2019,3,14,194
+1,235067,1,05:22,PP, Kryštof Hoch, Jakub Hruška,2018/2019,5,22,322
+2,235067,2,04:10,-, Jakub Klement, Jakub Hruška,2018/2019,4,10,250
+3,235067,2,11:04,-, Jakub Hruška, Daniel Klugar,2018/2019,11,4,664
+4,235067,3,00:24,-, Ondřej Zeman, Jakub Hruška,2018/2019,0,24,24
+5,235067,3,04:14,-, Jakub Hruška, Jaroslav Soldán,2018/2019,4,14,254
+6,235067,3,08:18,-, Martin Bukovič, Jakub Hruška,2018/2019,8,18,498
+7,235067,3,08:48,-, Daniel Klugar, Martin Bukovič,2018/2019,8,48,528
+0,237790,1,01:50,-, Michal Šíma, Václav Boček,2018/2019,1,50,110
+1,237790,2,00:44,-, Daniel Klugar, Jaroslav Soldán,2018/2019,0,44,44
+2,237790,2,04:47,-, Daniel Klugar, Jaroslav Soldán,2018/2019,4,47,287
+3,237790,2,05:13,-, Ondřej Zeman, Jakub Hruška,2018/2019,5,13,313
+4,237790,2,07:02,-, Ondřej Zeman, Jakub Hruška,2018/2019,7,2,422
+5,237790,2,09:15,-, Mikuláš Vyleta, Jaroslav Soldán,2018/2019,9,15,555
+6,237790,3,02:48,-, Ondřej Zeman, Jakub Klement,2018/2019,2,48,168
+7,237790,3,03:34,-, Václav Boček,,2018/2019,3,34,214
+8,237790,3,07:41,-, Jakub Hruška,,2018/2019,7,41,461
+9,237790,3,08:21,-, Michal Šíma, Václav Boček,2018/2019,8,21,501
+0,237788,1,02:38,-, Filip Terč, Daniel Klugar,2018/2019,2,38,158
+1,237788,1,06:52,-, Jakub Hruška, Mikuláš Vyleta,2018/2019,6,52,412
+2,237788,3,07:12,PP, Václav Boček, Ondřej Zeman,2018/2019,7,12,432
+3,237788,3,10:47,-, Jaroslav Soldán,,2018/2019,10,47,647
+0,241681,1,01:23,-, Kryštof Hoch, Filip Terč,2018/2019,1,23,83
+1,241681,1,08:12,-, Ondřej Zeman, Jakub Hruška,2018/2019,8,12,492
+2,241681,3,03:29,-, Jaroslav Soldán, Kryštof Hoch,2018/2019,3,29,209
+3,241681,3,03:42,-, Jakub Klement, Ondřej Zeman,2018/2019,3,42,222
+4,241681,3,05:53,-, Filip Terč, Václav Boček,2018/2019,5,53,353
+5,241681,3,09:55,-, Mikuláš Vyleta, Jakub Klement,2018/2019,9,55,595
+0,244649,1,06:37,-, Jakub Klement, Michal Šíma,2018/2019,6,37,397
+1,244649,1,09:34,-, Michal Šíma,,2018/2019,9,34,574
+2,244649,2,11:04,-, Václav Boček, Kryštof Hoch,2018/2019,11,4,664
+3,244649,2,11:37,-, Jaroslav Soldán, Kryštof Hoch,2018/2019,11,37,697
+4,244649,3,00:35,-, Ondřej Zeman, Kryštof Hoch,2018/2019,0,35,35
+5,244649,3,10:14,SH, Václav Boček, Ondřej Zeman,2018/2019,10,14,614
+0,247469,1,03:23,-, Michal Šíma, Vojtěch Brávek,2018/2019,3,23,203
+1,247469,1,06:21,-, Ondřej Zeman, Jaroslav Soldán,2018/2019,6,21,381
+2,247469,2,00:28,-, Mikuláš Vyleta,,2018/2019,0,28,28
+0,247467,1,06:31,-, Vojtěch Brávek,,2018/2019,6,31,391
+1,247467,1,11:31,-, Vojtěch Brávek, Ondřej Zeman,2018/2019,11,31,691
+2,247467,2,03:38,-, Daniel Klugar, Michal Šíma,2018/2019,3,38,218
+3,247467,2,09:25,-, Václav Boček, Stanislav Kodet,2018/2019,9,25,565
+4,247467,3,00:54,-, Michal Šíma, Václav Boček,2018/2019,0,54,54
+5,247467,3,10:05,-, Daniel Klugar,,2018/2019,10,5,605
+6,247467,3,11:05,-, Jakub Hruška, Ondřej Zeman,2018/2019,11,5,665
+0,233120,2,09:42,-, Ondřej Zeman, Jakub Hruška,2018/2019,9,42,582
+0,250974,3,08:34,-, Jakub Hruška, Ondřej Zeman,2018/2019,8,34,514
+0,252765,1,02:11,-, Václav Boček, Michal Šíma,2018/2019,2,11,131
+1,252765,1,03:33,-, Stanislav Kodet, Mikuláš Vyleta,2018/2019,3,33,213
+2,252765,1,04:23,-, Michal Šíma, Stanislav Kodet,2018/2019,4,23,263
+3,252765,1,05:22,-, Jakub Klement, Ondřej Zeman,2018/2019,5,22,322
+4,252765,2,06:28,PP, Václav Boček,,2018/2019,6,28,388
+0,252762,3,10:03,-, Kryštof Hoch, Vojtěch Brávek,2018/2019,10,3,603
+0,258459,1,06:46,-, Michal Šíma, Jakub Klement,2019/2020,6,46,406
+1,258459,1,08:27,-, Václav Boček,,2019/2020,8,27,507
+0,258090,1,05:00,-, Václav Boček,,2019/2020,5,0,300
+1,258090,1,07:56,-, Daniel Klugar,,2019/2020,7,56,476
+0,261060,3,01:13,-, Václav Boček, Michal Šíma,2019/2020,1,13,73
+1,261060,3,02:45,-, Jaroslav Soldán, Jakub Klement,2019/2020,2,45,165
+2,261060,3,06:27,-, Daniel Klugar, Jakub Hruška,2019/2020,6,27,387
+3,261060,3,11:59,-, Václav Boček, Jakub Hruška,2019/2020,11,59,719
+0,261055,1,05:58,-, Filip Terč, Daniel Klugar,2019/2020,5,58,358
+1,261055,1,08:03,-, Jakub Hruška, Václav Boček,2019/2020,8,3,483
+0,263313,2,04:21,-, Jakub Klement, Michal Šíma,2019/2020,4,21,261
+1,263313,3,01:56,-, Daniel Klugar,,2019/2020,1,56,116
+0,263310,2,09:29,-, Václav Boček, Jakub Rada,2019/2020,9,29,569
+1,263310,3,08:52,-, Filip Terč, Jakub Klement,2019/2020,8,52,532
+0,267257,3,04:22,PP, Jakub Klement, Jakub Hruška,2019/2020,4,22,262
+1,267257,3,05:45,-, Michal Šíma, Jakub Hruška,2019/2020,5,45,345
+0,271089,2,08:30,-, Jakub Hruška, Jakub Rada,2019/2020,8,30,510
+1,271089,2,10:54,PP, Jakub Hruška, Václav Boček,2019/2020,10,54,654
+2,271089,3,03:48,-, Václav Boček, Jakub Hruška,2019/2020,3,48,228
+0,271087,1,06:03,-, Jakub Rada, Jakub Hruška,2019/2020,6,3,363
+1,271087,1,10:38,-, Václav Boček, Jaroslav Soldán,2019/2020,10,38,638
+2,271087,3,08:57,-, Daniel Klugar, Jakub Klement,2019/2020,8,57,537
+0,273338,3,04:09,-, Mikuláš Vyleta, Jakub Hruška,2019/2020,4,9,249
+0,273335,1,04:18,-, Michal Šíma, Jaroslav Soldán,2019/2020,4,18,258
+1,273335,1,05:50,-, Václav Boček, Michal Šíma,2019/2020,5,50,350
+2,273335,1,06:47,-, Václav Boček, Michal Šíma,2019/2020,6,47,407
+3,273335,3,11:30,-, Jakub Hruška, Michal Šíma,2019/2020,11,30,690
+0,277341,2,07:10,-, Jakub Hruška, Mikuláš Vyleta,2019/2020,7,10,430
+0,277256,1,00:49,-, Kryštof Hoch,,2019/2020,0,49,49
+1,277256,3,02:32,-, Kryštof Hoch, Michal Šíma,2019/2020,2,32,152
+2,277256,3,10:30,-, Václav Boček,,2019/2020,10,30,630
+0,284092,1,05:40,-, Jakub Hruška, Michal Šíma,2020/2021,5,40,340
+1,284092,1,10:17,-, Jakub Hruška, Jakub Klement,2020/2021,10,17,617
+2,284092,3,10:05,-, Jakub Hruška, Stanislav Kodet,2020/2021,10,5,605
+0,284095,3,07:11,-, Michal Šíma, Jakub Klement,2020/2021,7,11,431
+1,284095,3,10:56,-, Ondřej Zeman, Jakub Hruška,2020/2021,10,56,656
+0,288076,1,00:04,-, Jakub Hruška, Ondřej Zeman,2020/2021,0,4,4
+1,288076,1,10:35,-, Václav Boček, Jakub Rada,2020/2021,10,35,635
+2,288076,2,07:44,-, Michal Šíma, Jakub Rada,2020/2021,7,44,464
+3,288076,3,09:02,-, Ondřej Zeman, Jakub Klement,2020/2021,9,2,542
+0,288074,1,01:57,-, Ondřej Zeman, Jakub Hruška,2020/2021,1,57,117
+1,288074,2,07:14,-, Václav Boček, Michal Šíma,2020/2021,7,14,434
+2,288074,2,07:18,-, Ondřej Zeman, Václav Boček,2020/2021,7,18,438
+3,288074,2,10:26,-, Ondřej Zeman,,2020/2021,10,26,626
+4,288074,3,00:20,-, Ondřej Zeman, Jakub Hruška,2020/2021,0,20,20
+5,288074,-,-,PS, Jakub Klement,,2020/2021,0,0,0
+0,294736,1,05:51,-, Martin Bukovič, Jakub Rada,2021/2022,5,51,351
+0,294733,1,02:41,-, Kryštof Hoch,,2021/2022,2,41,161
+1,294733,2,01:59,-, Václav Boček, Jaroslav Soldán,2021/2022,1,59,119
+2,294733,3,07:32,-, Jakub Rada, Václav Boček,2021/2022,7,32,452
+0,296888,2,00:41,-, Kryštof Hoch, Jakub Hruška,2021/2022,0,41,41
+1,296888,3,09:19,-, Jakub Hruška,,2021/2022,9,19,559
+2,296888,3,09:43,-, Michal Šíma, Martin Bukovič,2021/2022,9,43,583
+0,298364,1,00:05,-, Ondřej Zeman, Jakub Hruška,2021/2022,0,5,5
+1,298364,1,08:18,-, Martin Bukovič,,2021/2022,8,18,498
+2,298364,1,11:38,-, Václav Boček, Jakub Hruška,2021/2022,11,38,698
+3,298364,2,04:52,-, Ondřej Zeman, Jakub Hruška,2021/2022,4,52,292
+4,298364,2,05:00,-, Jakub Hruška, Ondřej Zeman,2021/2022,5,0,300
+5,298364,3,04:33,-, Jakub Hruška, Jaroslav Soldán,2021/2022,4,33,273
+6,298364,3,10:36,OG, Martin Pokorný,,2021/2022,10,36,636
+7,298364,-,-,PS, Jakub Hruška,,2021/2022,0,0,0
+0,300089,2,00:50,-, Jakub Klement, Jaroslav Soldán,2021/2022,0,50,50
+1,300089,2,05:12,-, Ondřej Zeman, Jakub Hruška,2021/2022,5,12,312
+2,300089,2,06:06,-, Ondřej Zeman, Kryštof Hoch,2021/2022,6,6,366
+3,300089,2,11:58,-, Jakub Hruška, Jakub Klement,2021/2022,11,58,718
+4,300089,3,05:31,-, Jaroslav Soldán, Jakub Hruška,2021/2022,5,31,331
+5,300089,3,06:35,-, Jakub Hruška, Ondřej Zeman,2021/2022,6,35,395
+0,302009,1,02:37,-, Ondřej Zeman, Jakub Hruška,2021/2022,2,37,157
+1,302009,3,03:22,-, Kryštof Hoch, Michal Šíma,2021/2022,3,22,202
+2,302009,3,03:38,-, Jakub Rada, Kryštof Hoch,2021/2022,3,38,218
