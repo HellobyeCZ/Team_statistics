@@ -38,7 +38,9 @@ for team in teams_list:
 
     soup = BeautifulSoup(page.content, "html.parser")
 
-    match_ids_list = re.findall('record_id=([0-9]+)&', str(soup))
+    soup_table = soup.find_all("div", class_="matches")
+
+    match_ids_list = re.findall('record_id=([0-9]+)&', str(soup_table))
     match_ids_unique = pd.unique(match_ids_list)
     season_scraped = re.findall("([0-9]{4}/[0-9]{4})", str(soup))
 

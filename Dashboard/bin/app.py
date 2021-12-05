@@ -90,20 +90,20 @@ def load_homepage() -> None:
     st.text("All information scraped from ceskyflorbal.cz")
     
 
-    # if st.button('Update teams'):
-    #         os.chdir(scrapper_bin_dir)
-    #         print(scrapper_bin_dir)
-    #         os.system("python3 scrap_match_current.py")
-    #         os.system("python3 scrap_stats_current.py")
-    #         os.system("python3 current_history_append.py")
-    #         os.chdir(file_location)
-    #         os.system("python3 Prepare_data.py")
-    #         os.chdir(file_location)
-    #         os.system("streamlit cache clear")
-    #         st.success('Teams successfuly updated!')
+    if st.button('Update teams'):
+            os.chdir(scrapper_bin_dir)
+            print(scrapper_bin_dir)
+            os.system("python3 scrap_match_current.py")
+            os.system("python3 scrap_stats_current.py")
+            os.system("python3 current_history_append.py")
+            os.chdir(file_location)
+            os.system("python3 Prepare_data.py")
+            os.chdir(file_location)
+            os.system("streamlit cache clear")
+            st.success('Teams successfuly updated!')
 
-    #         if st.button("Rerun the App"):
-    #             st.experimental_rerun()
+            if st.button("Rerun the App"):
+                st.experimental_rerun()
             
 
     st.title("")
