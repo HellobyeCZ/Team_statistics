@@ -1,6 +1,6 @@
 # This repo is working as a source for streamlit application.
 
-Find the app on this [url](https://share.streamlit.io/hellobyecz/team_statistics/main/Dashboard/bin/app.py)
+Find the app on this [url](https://share.streamlit.io/hellobyecz/team_statistics/main/Dashboard/bin/app.py).
 
 
 ## How to run the scraping process:
