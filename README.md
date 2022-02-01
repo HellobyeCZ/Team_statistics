@@ -4,6 +4,5 @@ url: https://share.streamlit.io/hellobyecz/team_statistics/main/Dashboard/bin/ap
 
 
 ## How to run the scraping process:
-
-#  For current season:
- Run "current_ALL.py" and then "prepare_data.py"
+- For current season:
+ - Run "current_ALL.py" and then "prepare_data.py"
