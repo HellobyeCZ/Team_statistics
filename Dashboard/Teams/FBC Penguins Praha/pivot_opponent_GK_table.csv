@@ -3,10 +3,10 @@ GK,Goals,Matches,Min,Shots,Touches,Mean_Goals,Goal_Minute
  Filip Trousil,13,4,108,0,-13,-,-
  Lukáš Pouska,9,4,72,0,-9,-,-
  Petr Zdráhal,14,3,72,0,-14,-,-
- Petr Konáš,11,3,108,0,-11,-,-
- David Pazdírek,9,3,108,0,-9,-,-
+ Jaroslav Buben,7,3,108,0,-7,-,-
  Jiří Marvan,6,3,36,0,-6,-,-
- Jaroslav Buben,6,2,72,0,-6,-,-
+ David Pazdírek,9,3,108,0,-9,-,-
+ Petr Konáš,11,3,108,0,-11,-,-
  Michal Šnobl,16,2,72,0,-16,-,-
  Kamil Netušil,5,2,72,0,-5,-,-
  Luboš Kratochvíl,11,2,72,0,-11,-,-
@@ -14,46 +14,47 @@ GK,Goals,Matches,Min,Shots,Touches,Mean_Goals,Goal_Minute
  Lukáš Vomáčka,2,2,72,0,-2,-,-
  Jan Čebiš,10,2,72,0,-10,-,-
  Lukáš Zbránek,4,2,72,0,-4,-,-
- Pavel Cejnar,7,2,72,0,-7,-,-
  Marek Černý,4,2,72,0,-4,-,-
+ Pavel Cejnar,7,2,72,0,-7,-,-
  Ondřej Svoboda,5,2,72,0,-5,-,-
  Michael Svatoň,5,2,36,0,-5,-,-
  Michal Prokopec,11,2,72,0,-11,-,-
  Michal Voříšek,4,2,36,0,-4,-,-
  Jana Taušová,7,2,72,0,-7,-,-
  Aleš Jungmann,3,2,36,0,-3,-,-
- Jakub Havrda,2,2,72,0,-2,-,-
+ Milan Horáček,9,2,72,0,-9,-,-
+ Filip Skála,8,2,72,0,-8,-,-
  Jan Chot,10,2,72,0,-10,-,-
  Christian-Marcel Kušnirák,0,2,2,0,0,-,-
- Robert Šimáček,3,2,36,0,-3,-,-
  Daniel Čermák,6,2,36,0,-6,-,-
+ Robert Šimáček,3,2,36,0,-3,-,-
  Jakub Hoffmann,9,2,72,0,-9,-,-
+ Jakub Havrda,2,2,72,0,-2,-,-
  Jan Chuděj,5,2,72,0,-5,-,-
- Filip Skála,8,2,72,0,-8,-,-
  Vít Rosol,2,2,72,0,-2,-,-
- Ondřej Jelínek,10,1,36,0,-10,-,-
- Václav Janeček,5,1,36,0,-5,-,-
- Petr Šimon,0,1,0,0,0,-,-
- Norbert Hirschbrich,5,1,0,0,-5,-,-
- Miroslav Mynář,2,1,36,0,-2,-,-
- Pavel Bartůněk,6,1,36,0,-6,-,-
- Milan Červený,1,1,36,0,-1,-,-
  Ondřej Zuska,3,1,36,0,-3,-,-
- Tomáš Pelc,2,1,36,0,-2,-,-
+ Václav Janeček,5,1,36,0,-5,-,-
+ Miroslav Mynář,2,1,36,0,-2,-,-
+ Ondřej Jelínek,10,1,36,0,-10,-,-
+ Norbert Hirschbrich,5,1,0,0,-5,-,-
  Vojtěch Nockin,0,1,36,0,0,-,-
+ Milan Červený,1,1,36,0,-1,-,-
+ Pavel Bartůněk,6,1,36,0,-6,-,-
+ Petr Šimon,0,1,0,0,0,-,-
  Vojtěch Doležal,6,1,36,0,-6,-,-
  Veronika Hochová,6,1,36,0,-6,-,-
+ Tomáš Pelc,2,1,36,0,-2,-,-
  Tomáš Krijt,4,1,0,0,-4,-,-
- Peter Varga,6,1,36,0,-6,-,-
  Tomáš Hubený,6,1,36,0,-6,-,-
  Petr Kabelka,3,1,36,0,-3,-,-
  Petr Kempa,2,1,36,0,-2,-,-
  Tomáš Charvát,9,1,36,0,-9,-,-
+ Petr Tlustý,0,1,36,0,0,-,-
  Petr Žitník,1,1,36,0,-1,-,-
- Milan Horáček,6,1,36,0,-6,-,-
- Martin Hanek,7,1,36,0,-7,-,-
+ Peter Varga,6,1,36,0,-6,-,-
+ Martin Jonák,6,1,36,0,-6,-,-
  Michal Vyčichl,4,1,36,0,-4,-,-
- Jaroslav Hrubý,2,1,36,0,-2,-,-
+ Michal Kolář,6,1,36,0,-6,-,-
  David Kaminski,7,1,36,0,-7,-,-
  David Poláček,2,1,36,0,-2,-,-
  David Šmerda,5,1,36,0,-5,-,-
@@ -66,18 +67,19 @@ GK,Goals,Matches,Min,Shots,Touches,Mean_Goals,Goal_Minute
  Jakub Šamánek,1,1,36,0,-1,-,-
  Jakub Šotola,5,1,36,0,-5,-,-
  Jan Ulrich,2,1,36,0,-2,-,-
+ Jaroslav Hrubý,2,1,36,0,-2,-,-
  Jindřich Očenášek,6,1,36,0,-6,-,-
- Michal Kolář,6,1,36,0,-6,-,-
  Josef Šubrt,3,1,36,0,-3,-,-
  Lukáš Bicek,0,1,0,0,0,-,-
  Lukáš Mach,3,1,36,0,-3,-,-
  Lukáš Mareš,3,1,36,0,-3,-,-
  Lukáš Zeman,0,1,36,0,0,-,-
  Marek Schneeberg,7,1,36,0,-7,-,-
+ Martin Hanek,7,1,36,0,-7,-,-
  Aleš Moc,0,1,0,0,0,-,-
- Martin Jonák,6,1,36,0,-6,-,-
  Martin Mulenko,6,1,36,0,-6,-,-
  Martin Ziba,2,1,36,0,-2,-,-
+ Martin Řepka,1,1,36,0,-1,-,-
  Matěj Pálka,9,1,36,0,-9,-,-
  Michal Chyba,3,1,36,0,-3,-,-
  Zuzana Jedličková,8,1,36,0,-8,-,-
