@@ -1,18 +1,18 @@
 Player,A,G,Hattrick,Matches,PTS,Mean_points,Mean_goal,Mean_assists
- Ondřej Zeman ,53,77,4,93,130,1.4,0.83,0.57
+ Ondřej Zeman ,54,78,4,95,132,1.39,0.82,0.57
  Jakub Hruška ,63,66,4,107,129,1.21,0.62,0.59
- Jakub Klement ,51,47,3,113,98,0.87,0.42,0.45
- Kryštof Hoch ,36,40,2,87,76,0.87,0.46,0.41
- Michal Šíma ,31,37,0,84,68,0.81,0.44,0.37
- Václav Boček ,15,36,0,52,51,0.98,0.69,0.29
- Daniel Klugar ,15,31,0,65,46,0.71,0.48,0.23
+ Jakub Klement ,51,47,3,117,98,0.84,0.4,0.44
+ Kryštof Hoch ,36,40,2,89,76,0.85,0.45,0.4
+ Michal Šíma ,34,37,0,88,71,0.81,0.42,0.39
+ Václav Boček ,15,37,0,56,52,0.93,0.66,0.27
+ Daniel Klugar ,15,31,0,67,46,0.69,0.46,0.22
  Vojtěch Brávek ,16,24,3,44,40,0.91,0.55,0.36
  Mikuláš Vyleta ,13,21,0,59,34,0.58,0.36,0.22
- Martin Bukovič ,14,8,0,51,22,0.43,0.16,0.27
+ Martin Bukovič ,14,10,0,55,24,0.44,0.18,0.25
  Filip Terč ,11,10,0,64,21,0.33,0.16,0.17
- Jaroslav Soldán ,14,6,0,53,20,0.38,0.11,0.26
- Stanislav Kodet ,5,10,0,56,15,0.27,0.18,0.09
- Jakub Rada ,6,4,0,27,10,0.37,0.15,0.22
+ Jaroslav Soldán ,14,6,0,55,20,0.36,0.11,0.25
+ Stanislav Kodet ,6,10,0,58,16,0.28,0.17,0.1
+ Jakub Rada ,6,6,0,31,12,0.39,0.19,0.19
  Tomáš Weisser ,2,8,0,14,10,0.71,0.57,0.14
  Štěpán Kalina ,1,6,0,8,7,0,0,0
  Max Horn ,3,2,0,8,5,0,0,0
@@ -20,4 +20,5 @@ Player,A,G,Hattrick,Matches,PTS,Mean_points,Mean_goal,Mean_assists
  Jiří Kvasnička ,2,0,0,11,2,0.18,0.0,0.18
  Jakub Rejf ,1,1,0,11,2,0.18,0.09,0.09
  Nicholas McLean ,0,0,0,5,0,0,0,0
- Josef Kopecký ,0,0,0,1,0,0,0,0
+ Josef Kopecký ,0,0,0,2,0,0,0,0
+ Jan Roháč ,0,0,0,1,0,0,0,0
